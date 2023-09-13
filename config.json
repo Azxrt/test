@@ -115,7 +115,7 @@
       },
       {
          "id": 54042,
-         "enabled": false,
+         "enabled": true,
          "sorting_id": 2,
          "url": "",
          "filtering_tags": [
@@ -153,7 +153,7 @@
       },
       {
          "id": 54043,
-         "enabled": false,
+         "enabled": true,
          "sorting_id": 3,
          "url": "",
          "filtering_tags": [
@@ -191,7 +191,7 @@
       },
       {
          "id": 54044,
-         "enabled": false,
+         "enabled": true,
          "sorting_id": 4,
          "url": "",
          "filtering_tags": [
