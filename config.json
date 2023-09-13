@@ -84,10 +84,10 @@
             "news"
          ],
          "names": {
-            "uk": "ЄДИНІ НОВИНИ",
-            "en": "ЄДИНІ НОВИНИ",
-            "ru": "ЄДИНІ НОВИНИ",
-            "ro": "ЄДИНІ НОВИНИ"
+            "uk": "Rudaw",
+            "en": "Rudaw",
+            "ru": "Rudaw",
+            "ro": "Rudaw"
          },
          "tags": {
             "uk": "Інформаційний марафон - 24/7",
@@ -95,21 +95,21 @@
             "ru": "Інформаційний марафон - 24/7",
             "ro": "Інформаційний марафон - 24/7"
          },
-         "logo": "https://static.radioplayer.ua/radioplayer/logo/news/logo_enovyny-n.jpg",
+         "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/rudaw.png",
          "playlist": "",
          "current_song": "",
          "streams": {
             "regular": {
-               "android": "http://online-news-app.radioplayer.ua/RadioNews_Live",
-               "ios": "http://online-news-app.radioplayer.ua/RadioNews_Live",
-               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
-               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+               "android": "http://audiostreaming.itworkscdn.com:9006/;*.nsv",
+               "ios": "http://audiostreaming.itworkscdn.com:9006/;*.nsv",
+               "android2": "http://audiostreaming.itworkscdn.com:9006/;*.nsv",
+               "ios2": "http://audiostreaming.itworkscdn.com:9006/;*.nsv"
             },
             "hd": {
-               "android": "http://online-news.radioplayer.ua/RadioNews",
-               "ios": "http://online-news.radioplayer.ua/RadioNews",
-               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
-               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+               "android": "http://audiostreaming.itworkscdn.com:9006/;*.nsv",
+               "ios": "http://audiostreaming.itworkscdn.com:9006/;*.nsv",
+               "android2": "http://audiostreaming.itworkscdn.com:9006/;*.nsv",
+               "ios2": "http://audiostreaming.itworkscdn.com:9006/;*.nsv"
             }
          }
       },
@@ -122,10 +122,10 @@
             "news"
          ],
          "names": {
-            "uk": "ЕДИНЫЕ НОВОСТИ",
-            "en": "ЕДИНЫЕ НОВОСТИ",
-            "ru": "ЕДИНЫЕ НОВОСТИ",
-            "ro": "ЕДИНЫЕ НОВОСТИ"
+            "uk": "Dawat RADIO",
+            "en": "Dawat RADIO",
+            "ru": "Dawar RADIO",
+            "ro": "Dawat RADIO"
          },
          "tags": {
             "uk": "Информационный марафон - 24/7",
@@ -138,10 +138,10 @@
          "current_song": "",
          "streams": {
             "regular": {
-               "android": "http://online-news-app.radioplayer.ua/RadioNews2_Live",
-               "ios": "http://online-news-app.radioplayer.ua/RadioNews2_Live",
-               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
-               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+               "android": "http://stream.zeno.fm/5u7ntxrr7mzuv",
+               "ios": "http://stream.zeno.fm/5u7ntxrr7mzuv",
+               "android2": "http://stream.zeno.fm/5u7ntxrr7mzuv",
+               "ios2": "http://stream.zeno.fm/5u7ntxrr7mzuv"
             },
             "hd": {
                "android": "http://online-news.radioplayer.ua/RadioNews2",
@@ -160,10 +160,10 @@
             "news"
          ],
          "names": {
-            "uk": "UNITED NEWS",
-            "en": "UNITED NEWS",
-            "ru": "UNITED NEWS",
-            "ro": "UNITED NEWS"
+            "uk": "4 U",
+            "en": "4 U",
+            "ru": "4 U",
+            "ro": "4 U"
          },
          "tags": {
             "uk": "Information marathon - 24/7",
@@ -176,10 +176,10 @@
          "current_song": "",
          "streams": {
             "regular": {
-               "android": "http://online-news-app.radioplayer.ua/RadioNews3_Live",
-               "ios": "http://online-news-app.radioplayer.ua/RadioNews3_Live",
-               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
-               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+               "android": "http://51.210.199.23/hls/stream.m3u8",
+               "ios": "http://51.210.199.23/hls/stream.m3u8",
+               "android2": "http://51.210.199.23/hls/stream.m3u8",
+               "ios2": "http://51.210.199.23/hls/stream.m3u8"
             },
             "hd": {
                "android": "http://online-news.radioplayer.ua/RadioNews3",
@@ -198,10 +198,10 @@
             "news"
          ],
          "names": {
-            "uk": "NOUVELLES UNIES",
-            "en": "NOUVELLES UNIES",
-            "ru": "NOUVELLES UNIES",
-            "ro": "NOUVELLES UNIES"
+            "uk": "Dance",
+            "en": "Dance",
+            "ru": "Dance",
+            "ro": "Dance"
          },
          "tags": {
             "uk": "Marathon d'information - 24/7",
@@ -214,10 +214,10 @@
          "current_song": "",
          "streams": {
             "regular": {
-               "android": "http://online-news-app.radioplayer.ua/RadioNews4_Live",
-               "ios": "http://online-news-app.radioplayer.ua/RadioNews4_Live",
-               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
-               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+               "android": "http://stm8.srvstm.com:8212/1",
+               "ios": "http://stm8.srvstm.com:8212/1",
+               "android2": "http://stm8.srvstm.com:8212/1",
+               "ios2": "http://stm8.srvstm.com:8212/1"
             },
             "hd": {
                "android": "http://online-news.radioplayer.ua/RadioNews4",
@@ -235,13 +235,13 @@
          "filtering_tags": [
             "pop",
             "rock",
-            "ukr"
+            "news"
          ],
          "names": {
-            "uk": "Радіо БАЙРАКТАР",
-            "en": "Radio BAYRAKTAR",
-            "ru": "Радіо БАЙРАКТАР",
-            "ro": "Radio BAYRAKTAR"
+            "uk": "Dance 1",
+            "en": "Dance 1",
+            "ru": "Dance 1",
+            "ro": "Dance 1"
          },
          "tags": {
             "uk": "Музика української перемоги",
@@ -255,12 +255,12 @@
          "current_song1": "",
          "streams": {
             "regular": {
-               "android": "http://online.radiobayraktar.ua/RadioBayraktar_Live",
-               "ios": "http://online.radiobayraktar.ua/RadioBayraktar_Live",
-               "android2": "http://brktr2.radioplayer.ua/RadioBayraktar_Live",
-               "ios2": "http://brktr2.radioplayer.ua/RadioBayraktar_Live",
-               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
-               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+               "android": "http://213.251.190.165/puls90HD.mp3",
+               "ios": "http://213.251.190.165/puls90HD.mp3",
+               "android2": "http://213.251.190.165/puls90HD.mp3",
+               "ios2": "http://213.251.190.165/puls90HD.mp3",
+               "android3": "http://213.251.190.165/puls90HD.mp3",
+               "ios3": "http://213.251.190.165/puls90HD.mp3"
             },
             "hd": {
                "android": "http://online.radiobayraktar.ua/RadioBayraktar_HD",
