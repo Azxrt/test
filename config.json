@@ -1,0 +1,5356 @@
+{
+   "buffer": 7000,
+   "tags": [
+      {
+         "id": "xmas",
+         "name": {
+            "uk": "різдво",
+            "en": "christmas",
+            "ru": "рождество",
+            "ro": "christmas"
+         }
+      },
+      {
+         "id": "news",
+         "name": {
+            "uk": "новини",
+            "en": "news",
+            "ru": "новости",
+            "ro": "news"
+         }
+      },
+      {
+         "id": "ukr",
+         "name": {
+            "uk": "укр",
+            "en": "ukr",
+            "ru": "укр",
+            "ro": "ukr"
+         }
+      },
+      {
+         "id": "pop",
+         "name": {
+            "uk": "поп",
+            "en": "pop",
+            "ru": "поп",
+            "ro": "pop"
+         }
+      },
+      {
+         "id": "rock",
+         "name": {
+            "uk": "рок",
+            "en": "rock",
+            "ru": "рок",
+            "ro": "rock"
+         }
+      },
+      {
+         "id": "jazz",
+         "name": {
+            "uk": "джаз",
+            "en": "jazz",
+            "ru": "джаз",
+            "ro": "jazz"
+         }
+      },
+      {
+         "id": "dance",
+         "name": {
+            "uk": "данс",
+            "en": "dance",
+            "ru": "данс",
+            "ro": "dance"
+         }
+      },
+      {
+         "id": "relax",
+         "name": {
+            "uk": "релакс",
+            "en": "relax",
+            "ru": "релакс",
+            "ro": "relax"
+         }
+      }
+   ],
+   "stations": [
+      {
+         "id": 5404,
+         "enabled": true,
+         "sorting_id": 1,
+         "url": "",
+         "filtering_tags": [
+            "news"
+         ],
+         "names": {
+            "uk": "ЄДИНІ НОВИНИ",
+            "en": "ЄДИНІ НОВИНИ",
+            "ru": "ЄДИНІ НОВИНИ",
+            "ro": "ЄДИНІ НОВИНИ"
+         },
+         "tags": {
+            "uk": "Інформаційний марафон - 24/7",
+            "en": "Інформаційний марафон - 24/7",
+            "ru": "Інформаційний марафон - 24/7",
+            "ro": "Інформаційний марафон - 24/7"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/news/logo_enovyny-n.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online-news.radioplayer.ua/RadioNews",
+               "ios": "http://online-news.radioplayer.ua/RadioNews",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            }
+         }
+      },
+      {
+         "id": 54042,
+         "enabled": false,
+         "sorting_id": 2,
+         "url": "",
+         "filtering_tags": [
+            "news"
+         ],
+         "names": {
+            "uk": "ЕДИНЫЕ НОВОСТИ",
+            "en": "ЕДИНЫЕ НОВОСТИ",
+            "ru": "ЕДИНЫЕ НОВОСТИ",
+            "ro": "ЕДИНЫЕ НОВОСТИ"
+         },
+         "tags": {
+            "uk": "Информационный марафон - 24/7",
+            "en": "Информационный марафон - 24/7",
+            "ru": "Информационный марафон - 24/7",
+            "ro": "Информационный марафон - 24/7"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/news/logo_enovyny2-n.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://online-news-app.radioplayer.ua/RadioNews2_Live",
+               "ios": "http://online-news-app.radioplayer.ua/RadioNews2_Live",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online-news.radioplayer.ua/RadioNews2",
+               "ios": "http://online-news.radioplayer.ua/RadioNews2",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            }
+         }
+      },
+      {
+         "id": 54043,
+         "enabled": false,
+         "sorting_id": 3,
+         "url": "",
+         "filtering_tags": [
+            "news"
+         ],
+         "names": {
+            "uk": "UNITED NEWS",
+            "en": "UNITED NEWS",
+            "ru": "UNITED NEWS",
+            "ro": "UNITED NEWS"
+         },
+         "tags": {
+            "uk": "Information marathon - 24/7",
+            "en": "Information marathon - 24/7",
+            "ru": "Information marathon - 24/7",
+            "ro": "Information marathon - 24/7"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/news/logo_enovyny3.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://online-news-app.radioplayer.ua/RadioNews3_Live",
+               "ios": "http://online-news-app.radioplayer.ua/RadioNews3_Live",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online-news.radioplayer.ua/RadioNews3",
+               "ios": "http://online-news.radioplayer.ua/RadioNews3",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            }
+         }
+      },
+      {
+         "id": 54044,
+         "enabled": false,
+         "sorting_id": 4,
+         "url": "",
+         "filtering_tags": [
+            "news"
+         ],
+         "names": {
+            "uk": "NOUVELLES UNIES",
+            "en": "NOUVELLES UNIES",
+            "ru": "NOUVELLES UNIES",
+            "ro": "NOUVELLES UNIES"
+         },
+         "tags": {
+            "uk": "Marathon d'information - 24/7",
+            "en": "Marathon d'information - 24/7",
+            "ru": "Marathon d'information - 24/7",
+            "ro": "Marathon d'information - 24/7"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/news/logo_enovyny4.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://online-news-app.radioplayer.ua/RadioNews4_Live",
+               "ios": "http://online-news-app.radioplayer.ua/RadioNews4_Live",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online-news.radioplayer.ua/RadioNews4",
+               "ios": "http://online-news.radioplayer.ua/RadioNews4",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            }
+         }
+      },
+      {
+         "id": 54049,
+         "enabled": true,
+         "sorting_id": 5,
+         "url": "",
+         "filtering_tags": [
+            "pop",
+            "rock",
+            "ukr"
+         ],
+         "names": {
+            "uk": "Радіо БАЙРАКТАР",
+            "en": "Radio BAYRAKTAR",
+            "ru": "Радіо БАЙРАКТАР",
+            "ro": "Radio BAYRAKTAR"
+         },
+         "tags": {
+            "uk": "Музика української перемоги",
+            "en": " ",
+            "ru": "Музика української перемоги"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_radio-bayraktar.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24bayraktar",
+         "current_song": "https://o.tavrmedia.ua/radio3bayraktar",
+         "playlist1": "",
+         "current_song1": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiobayraktar.ua/RadioBayraktar_Live",
+               "ios": "http://online.radiobayraktar.ua/RadioBayraktar_Live",
+               "android2": "http://brktr2.radioplayer.ua/RadioBayraktar_Live",
+               "ios2": "http://brktr2.radioplayer.ua/RadioBayraktar_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online.radiobayraktar.ua/RadioBayraktar_HD",
+               "ios": "http://online.radiobayraktar.ua/RadioBayraktar_HD",
+               "android2": "http://brktr2.radioplayer.ua/RadioBayraktar_HD",
+               "ios2": "http://brktr2.radioplayer.ua/RadioBayraktar_HD",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            }
+         },
+         "custom_streams": [
+            {
+               "geo_city": "Dnipro",
+               "geo_point": "48.46456182477873, 35.04411268790296",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/radio24bayraktar",
+               "current_song": "https://o.tavrmedia.ua/radio3bayraktar",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://online.radiobayraktar.ua/RadioBayraktarDp",
+                  "ios": "http://online.radiobayraktar.ua/RadioBayraktarDp"
+               },
+               "hd": {
+                  "android": "http://online.radiobayraktar.ua/RadioBayraktarDp_HD",
+                  "ios": "http://online.radiobayraktar.ua/RadioBayraktarDp_HD"
+               }
+            },
+            {
+               "geo_city": "Kharkiv",
+               "geo_point": "49.98835157744784, 36.23409484071183",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/radio24bayraktar",
+               "current_song": "https://o.tavrmedia.ua/radio3bayraktar",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://online.radiobayraktar.ua/RadioBayraktarKh",
+                  "ios": "http://online.radiobayraktar.ua/RadioBayraktarKh"
+               },
+               "hd": {
+                  "android": "http://online.radiobayraktar.ua/RadioBayraktarKh_HD",
+                  "ios": "http://online.radiobayraktar.ua/RadioBayraktarKh_HD"
+               }
+            },
+            {
+               "geo_city": "Lviv",
+               "geo_point": "49.84097423551905, 24.02841264024346",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/radio24bayraktar",
+               "current_song": "https://o.tavrmedia.ua/radio3bayraktar",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://online.radiobayraktar.ua/RadioBayraktarLv",
+                  "ios": "http://online.radiobayraktar.ua/RadioBayraktarLv"
+               },
+               "hd": {
+                  "android": "http://online.radiobayraktar.ua/RadioBayraktarLv_HD",
+                  "ios": "http://online.radiobayraktar.ua/RadioBayraktarLv_HD"
+               }
+            },
+            {
+               "geo_city": "Odesa",
+               "geo_point": "46.48887175691713, 30.734525821539552",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/radio24bayraktar",
+               "current_song": "https://o.tavrmedia.ua/radio3bayraktar",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://online.radiobayraktar.ua/RadioBayraktarOd",
+                  "ios": "http://online.radiobayraktar.ua/RadioBayraktarOd"
+               },
+               "hd": {
+                  "android": "http://online.radiobayraktar.ua/RadioBayraktarOd_HD",
+                  "ios": "http://online.radiobayraktar.ua/RadioBayraktarOd_HD"
+               }
+            },
+            {
+               "geo_city": "Ternopil",
+               "geo_point": "49.55566005245608, 25.596460253048015",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/radio24bayraktar",
+               "current_song": "https://o.tavrmedia.ua/radio3bayraktar",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://online.radiobayraktar.ua/RadioBayraktarTe",
+                  "ios": "http://online.radiobayraktar.ua/RadioBayraktarTe"
+               },
+               "hd": {
+                  "android": "http://online.radiobayraktar.ua/RadioBayraktarTe_HD",
+                  "ios": "http://online.radiobayraktar.ua/RadioBayraktarTe_HD"
+               }
+            }
+         ]
+      },
+      {
+         "id": 101,
+         "enabled": true,
+         "sorting_id": 10,
+         "url": "hit-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Хіт FM",
+            "en": "Hit FM",
+            "ru": "Хіт FM",
+            "ro": "Hit FM"
+         },
+         "tags": {
+            "uk": "Тільки хіти!",
+            "en": "Only hits!",
+            "ru": "Тільки хіти!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/hitfm/logo_hitfm.png",
+         "playlist": "https://o.tavrmedia.ua/hit24songs",
+         "current_song": "https://o.tavrmedia.ua/hit",
+         "playlist1": "",
+         "current_song1": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.hitfm.ua/HitFM_Live",
+               "ios": "http://online.hitfm.ua/HitFM_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online.hitfm.ua/HitFM_HD",
+               "ios": "http://online.hitfm.ua/HitFM_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "web": "https://online.hitfm.ua/HitFM"
+            }
+         },
+         "custom_streams": [
+            {
+               "geo_city": "Dnipro",
+               "geo_point": "48.46456182477873, 35.04411268790296",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/hit24songs",
+               "current_song": "https://o.tavrmedia.ua/hit",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/HitFM-Dp",
+                  "ios": "http://region.tavr.media/HitFM-Dp"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/HitFM-Dp_HD",
+                  "ios": "http://region.tavr.media/HitFM-Dp_HD"
+               }
+            },
+            {
+               "geo_city": "Kharkiv",
+               "geo_point": "49.98835157744784, 36.23409484071183",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/hit24songs",
+               "current_song": "https://o.tavrmedia.ua/hit",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/HitFM-Kh",
+                  "ios": "http://region.tavr.media/HitFM-Kh"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/HitFM-Kh_HD",
+                  "ios": "http://region.tavr.media/HitFM-Kh_HD"
+               }
+            },
+            {
+               "geo_city": "Lviv",
+               "geo_point": "49.84097423551905, 24.02841264024346",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/hit24songs",
+               "current_song": "https://o.tavrmedia.ua/hit",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/HitFM-Lviv",
+                  "ios": "http://region.tavr.media/HitFM-Lviv"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/HitFM-Lviv_HD",
+                  "ios": "http://region.tavr.media/HitFM-Lviv_HD"
+               }
+            },
+            {
+               "geo_city": "Odesa",
+               "geo_point": "46.48887175691713, 30.734525821539552",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/hit24songs",
+               "current_song": "https://o.tavrmedia.ua/hit",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/HitFM-Od",
+                  "ios": "http://region.tavr.media/HitFM-Od"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/HitFM-Od_HD",
+                  "ios": "http://region.tavr.media/HitFM-Od_HD"
+               }
+            },
+            {
+               "geo_city": "Ternopil",
+               "geo_point": "49.55566005245608, 25.596460253048015",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/hit24songs",
+               "current_song": "https://o.tavrmedia.ua/hit",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/HitFM-Te",
+                  "ios": "http://region.tavr.media/HitFM-Te"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/HitFM-Te_HD",
+                  "ios": "http://region.tavr.media/HitFM-Te_HD"
+               }
+            }
+         ]
+      },
+      {
+         "id": 201,
+         "enabled": true,
+         "sorting_id": 11,
+         "url": "radio-roks",
+         "filtering_tags": [
+            "rock"
+         ],
+         "names": {
+            "uk": "Radio ROKS",
+            "en": "Radio ROKS",
+            "ru": "Radio ROKS",
+            "ro": "Radio ROKS"
+         },
+         "tags": {
+            "uk": "Рок. Тільки рок!",
+            "en": "Rock. Only rock!",
+            "ru": "Рок. Тільки рок!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radioroks/logo_radioroks.png",
+         "playlist": "https://o.tavrmedia.ua/roks24songs",
+         "current_song": "https://o.tavrmedia.ua/roks",
+         "playlist1": "",
+         "current_song1": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radioroks.ua/RadioROKS_Live",
+               "ios": "http://online.radioroks.ua/RadioROKS_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online.radioroks.ua/RadioROKS_HD",
+               "ios": "http://online.radioroks.ua/RadioROKS_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "web": "https://online.radioroks.ua/RadioROKS"
+            }
+         },
+         "custom_streams": [
+            {
+               "geo_city": "Dnipro",
+               "geo_point": "48.46456182477873, 35.04411268790296",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/roks24songs",
+               "current_song": "https://o.tavrmedia.ua/roks",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/RadioROKS-Dp",
+                  "ios": "http://region.tavr.media/RadioROKS-Dp"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/RadioROKS-Dp_HD",
+                  "ios": "http://region.tavr.media/RadioROKS-Dp_HD"
+               }
+            },
+            {
+               "geo_city": "Kharkiv",
+               "geo_point": "49.98835157744784, 36.23409484071183",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/roks24songs",
+               "current_song": "https://o.tavrmedia.ua/roks",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/RadioROKS-Kh",
+                  "ios": "http://region.tavr.media/RadioROKS-Kh"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/RadioROKS-Kh_HD",
+                  "ios": "http://region.tavr.media/RadioROKS-Kh_HD"
+               }
+            },
+            {
+               "geo_city": "Lviv",
+               "geo_point": "49.84097423551905, 24.02841264024346",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/roks24songs",
+               "current_song": "https://o.tavrmedia.ua/roks",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/RadioROKS-Lviv",
+                  "ios": "http://region.tavr.media/RadioROKS-Lviv"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/RadioROKS-Lviv_HD",
+                  "ios": "http://region.tavr.media/RadioROKS-Lviv_HD"
+               }
+            },
+            {
+               "geo_city": "Odesa",
+               "geo_point": "46.48887175691713, 30.734525821539552",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/roks24songs",
+               "current_song": "https://o.tavrmedia.ua/roks",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/RadioROKS-Od",
+                  "ios": "http://region.tavr.media/RadioROKS-Od"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/RadioROKS-Od_HD",
+                  "ios": "http://region.tavr.media/RadioROKS-Od_HD"
+               }
+            },
+            {
+               "geo_city": "Ternopil",
+               "geo_point": "49.55566005245608, 25.596460253048015",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/roks24songs",
+               "current_song": "https://o.tavrmedia.ua/roks",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/RadioROKS-Te",
+                  "ios": "http://region.tavr.media/RadioROKS-Te"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/RadioROKS-Te_HD",
+                  "ios": "http://region.tavr.media/RadioROKS-Te_HD"
+               }
+            }
+         ]
+      },
+      {
+         "id": 301,
+         "enabled": true,
+         "sorting_id": 12,
+         "url": "kiss-fm",
+         "filtering_tags": [
+            "dance",
+            "pop"
+         ],
+         "names": {
+            "uk": "Kiss FM",
+            "en": "Kiss FM",
+            "ru": "Kiss FM",
+            "ro": "Kiss FM"
+         },
+         "tags": {
+            "uk": "The Best Dance Radio",
+            "en": "The Best Dance Radio",
+            "ru": "The Best Dance Radio"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/kissfm/logo_kissfm.png",
+         "playlist": "https://o.tavrmedia.ua/kiss24songs",
+         "current_song": "https://o.tavrmedia.ua/kiss",
+         "playlist1": "",
+         "current_song1": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.kissfm.ua/KissFM_Live",
+               "ios": "http://online.kissfm.ua/KissFM_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online.kissfm.ua/KissFM_HD",
+               "ios": "http://online.kissfm.ua/KissFM_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "web": "https://online.kissfm.ua/KissFM"
+            }
+         },
+         "custom_streams": [
+            {
+               "geo_city": "Dnipro",
+               "geo_point": "48.46456182477873, 35.04411268790296",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/kiss24songs",
+               "current_song": "https://o.tavrmedia.ua/kiss",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/KissFM-Dp",
+                  "ios": "http://region.tavr.media/KissFM-Dp"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/KissFM-Dp_HD",
+                  "ios": "http://region.tavr.media/KissFM-Dp_HD"
+               }
+            },
+            {
+               "geo_city": "Kharkiv",
+               "geo_point": "49.98835157744784, 36.23409484071183",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/kiss24songs",
+               "current_song": "https://o.tavrmedia.ua/kiss",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/KissFM-Kh",
+                  "ios": "http://region.tavr.media/KissFM-Kh"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/KissFM-Kh_HD",
+                  "ios": "http://region.tavr.media/KissFM-Kh_HD"
+               }
+            },
+            {
+               "geo_city": "Lviv",
+               "geo_point": "49.84097423551905, 24.02841264024346",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/kiss24songs",
+               "current_song": "https://o.tavrmedia.ua/kiss",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/KissFM-Lviv",
+                  "ios": "http://region.tavr.media/KissFM-Lviv"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/KissFM-Lviv_HD",
+                  "ios": "http://region.tavr.media/KissFM-Lviv_HD"
+               }
+            },
+            {
+               "geo_city": "Odesa",
+               "geo_point": "46.48887175691713, 30.734525821539552",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/kiss24songs",
+               "current_song": "https://o.tavrmedia.ua/kiss",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/KissFM-Od",
+                  "ios": "http://region.tavr.media/KissFM-Od"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/KissFM-Od_HD",
+                  "ios": "http://region.tavr.media/KissFM-Od_HD"
+               }
+            },
+            {
+               "geo_city": "Ternopil",
+               "geo_point": "49.55566005245608, 25.596460253048015",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/kiss24songs",
+               "current_song": "https://o.tavrmedia.ua/kiss",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/KissFM-Te",
+                  "ios": "http://region.tavr.media/KissFM-Te"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/KissFM-Te_HD",
+                  "ios": "http://region.tavr.media/KissFM-Te_HD"
+               }
+            }
+         ]
+      },
+      {
+         "id": 401,
+         "enabled": true,
+         "sorting_id": 13,
+         "url": "radio-relax",
+         "filtering_tags": [
+            "relax"
+         ],
+         "names": {
+            "uk": "Radio Relax",
+            "en": "Radio Relax",
+            "ru": "Radio Relax",
+            "ro": "Radio Relax"
+         },
+         "tags": {
+            "uk": "Легке та спокійне радіо",
+            "en": "Light and quiet radio",
+            "ru": "Легке та спокійне радіо"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radiorelax/logo_radiorelax.png",
+         "playlist": "https://o.tavrmedia.ua/relax24songs",
+         "current_song": "https://o.tavrmedia.ua/relax",
+         "playlist1": "",
+         "current_song1": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiorelax.ua/RadioRelax_Live",
+               "ios": "http://online.radiorelax.ua/RadioRelax_Live",
+               "android2": "http://online-news.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online.radiorelax.ua/RadioRelax_HD",
+               "ios": "http://online.radiorelax.ua/RadioRelax_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "web": "https://online.radiorelax.ua/RadioRelax"
+            }
+         },
+         "custom_streams": [
+            {
+               "geo_city": "Dnipro",
+               "geo_point": "48.46456182477873, 35.04411268790296",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/relax24songs",
+               "current_song": "https://o.tavrmedia.ua/relax",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/RadioRelax-Dp",
+                  "ios": "http://region.tavr.media/RadioRelax-Dp"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/RadioRelax-Dp_HD",
+                  "ios": "http://region.tavr.media/RadioRelax-Dp_HD"
+               }
+            },
+            {
+               "geo_city": "Kharkiv",
+               "geo_point": "49.98835157744784, 36.23409484071183",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/relax24songs",
+               "current_song": "https://o.tavrmedia.ua/relax",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/RadioRelax-Kh",
+                  "ios": "http://region.tavr.media/RadioRelax-Kh"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/RadioRelax-Kh_HD",
+                  "ios": "http://region.tavr.media/RadioRelax-Kh_HD"
+               }
+            },
+            {
+               "geo_city": "Ternopil",
+               "geo_point": "49.55566005245608, 25.596460253048015",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/relax24songs",
+               "current_song": "https://o.tavrmedia.ua/relax",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/RadioRelax-Te",
+                  "ios": "http://region.tavr.media/RadioRelax-Te"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/RadioRelax-Te_HD",
+                  "ios": "http://region.tavr.media/RadioRelax-Te_HD"
+               }
+            }
+         ]
+      },
+      {
+         "id": 501,
+         "enabled": true,
+         "sorting_id": 14,
+         "url": "melodia-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Мелодія FM",
+            "en": "Melodia FM",
+            "ru": "Мелодія FM",
+            "ro": "Melodia FM"
+         },
+         "tags": {
+            "uk": "Найкращі хіти 90-х і 2000-х!",
+            "en": "Best hits of 90s & 2000s!",
+            "ru": "Найкращі хіти 90-х і 2000-х!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/melodiafm/logo_melodiafm.png",
+         "playlist": "https://o.tavrmedia.ua/melodia24songs",
+         "current_song": "https://o.tavrmedia.ua/melodia",
+         "playlist1": "",
+         "current_song1": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.melodiafm.ua/MelodiaFM_Live",
+               "ios": "http://online.melodiafm.ua/MelodiaFM_Live",
+               "android2": "http://online-news.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online.melodiafm.ua/MelodiaFM_HD",
+               "ios": "http://online.melodiafm.ua/MelodiaFM_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "web": "https://online.melodiafm.ua/MelodiaFM"
+            }
+         },
+         "custom_streams": [
+            {
+               "geo_city": "Dnipro",
+               "geo_point": "48.46456182477873, 35.04411268790296",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/melodia24songs",
+               "current_song": "https://o.tavrmedia.ua/melodia",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/MelodiaFM-Dp",
+                  "ios": "http://region.tavr.media/MelodiaFM-Dp"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/MelodiaFM-Dp_HD",
+                  "ios": "http://region.tavr.media/MelodiaFM-Dp_HD"
+               }
+            },
+            {
+               "geo_city": "Kharkiv",
+               "geo_point": "49.98835157744784, 36.23409484071183",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/melodia24songs",
+               "current_song": "https://o.tavrmedia.ua/melodia",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/MelodiaFM-Kh",
+                  "ios": "http://region.tavr.media/MelodiaFM-Kh"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/MelodiaFM-Kh_HD",
+                  "ios": "http://region.tavr.media/MelodiaFM-Kh_HD"
+               }
+            },
+            {
+               "geo_city": "Lviv",
+               "geo_point": "49.84097423551905, 24.02841264024346",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/melodia24songs",
+               "current_song": "https://o.tavrmedia.ua/melodia",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/MelodiaFM-Lviv",
+                  "ios": "http://region.tavr.media/MelodiaFM-Lviv"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/MelodiaFM-Lviv_HD",
+                  "ios": "http://region.tavr.media/MelodiaFM-Lviv_HD"
+               }
+            },
+            {
+               "geo_city": "Odesa",
+               "geo_point": "46.48887175691713, 30.734525821539552",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/melodia24songs",
+               "current_song": "https://o.tavrmedia.ua/melodia",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/MelodiaFM-Od",
+                  "ios": "http://region.tavr.media/MelodiaFM-Od"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/MelodiaFM-Od_HD",
+                  "ios": "http://region.tavr.media/MelodiaFM-Od_HD"
+               }
+            }
+         ]
+      },
+      {
+         "id": 650,
+         "enabled": true,
+         "sorting_id": 15,
+         "url": "nashe-radio",
+         "filtering_tags": [
+            "pop",
+            "ukr"
+         ],
+         "names": {
+            "uk": "Наше Радіо",
+            "en": "Nashe Radio",
+            "ru": "Наше Радіо",
+            "ro": "Nashe Radio"
+         },
+         "tags": {
+            "uk": "Знай наших!",
+            "en": " ",
+            "ru": "Знай наших!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_nasheradio-2022.png",
+         "playlist": "https://o.tavrmedia.ua/nasheradio24songs",
+         "current_song": "https://o.tavrmedia.ua/nasheradio",
+         "playlist1": "",
+         "current_song1": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.nasheradio.ua/NasheRadio_Live",
+               "ios": "http://online.nasheradio.ua/NasheRadio_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online.nasheradio.ua/NasheRadio_HD",
+               "ios": "http://online.nasheradio.ua/NasheRadio_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "web": "https://online.nasheradio.ua/NasheRadio"
+            }
+         },
+         "custom_streams": [
+            {
+               "geo_city": "Dnipro",
+               "geo_point": "48.46456182477873, 35.04411268790296",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/nasheradio24songs",
+               "current_song": "https://o.tavrmedia.ua/nasheradio",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/NasheRadio-Dp",
+                  "ios": "http://region.tavr.media/NasheRadio-Dp"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/NasheRadio-Dp_HD",
+                  "ios": "http://region.tavr.media/NasheRadio-Dp_HD"
+               }
+            },
+            {
+               "geo_city": "Kharkiv",
+               "geo_point": "49.98835157744784, 36.23409484071183",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/nasheradio24songs",
+               "current_song": "https://o.tavrmedia.ua/nasheradio",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/NasheRadio-Kh",
+                  "ios": "http://region.tavr.media/NasheRadio-Kh"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/NasheRadio-Kh_HD",
+                  "ios": "http://region.tavr.media/NasheRadio-Kh_HD"
+               }
+            },
+            {
+               "geo_city": "Lviv",
+               "geo_point": "49.84097423551905, 24.02841264024346",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/nasheradio24songs",
+               "current_song": "https://o.tavrmedia.ua/nasheradio",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/NasheRadio-Lviv",
+                  "ios": "http://region.tavr.media/NasheRadio-Lviv"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/NasheRadio-Lviv_HD",
+                  "ios": "http://region.tavr.media/NasheRadio-Lviv_HD"
+               }
+            },
+            {
+               "geo_city": "Odesa",
+               "geo_point": "46.48887175691713, 30.734525821539552",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/nasheradio24songs",
+               "current_song": "https://o.tavrmedia.ua/nasheradio",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/NasheRadio-Od",
+                  "ios": "http://region.tavr.media/NasheRadio-Od"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/NasheRadio-Od_HD",
+                  "ios": "http://region.tavr.media/NasheRadio-Od_HD"
+               }
+            },
+            {
+               "geo_city": "Ternopil",
+               "geo_point": "49.55566005245608, 25.596460253048015",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/nasheradio24songs",
+               "current_song": "https://o.tavrmedia.ua/nasheradio",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://region.tavr.media/NasheRadio-Te",
+                  "ios": "http://region.tavr.media/NasheRadio-Te"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/NasheRadio-Te_HD",
+                  "ios": "http://region.tavr.media/NasheRadio-Te_HD"
+               }
+            }
+         ]
+      },
+      {
+         "id": 710,
+         "enabled": true,
+         "sorting_id": 16,
+         "url": "radio-jazz",
+         "filtering_tags": [
+            "jazz"
+         ],
+         "names": {
+            "uk": "Radio Jazz",
+            "en": "Radio Jazz",
+            "ru": "Radio Jazz",
+            "ro": "Radio Jazz"
+         },
+         "tags": {
+            "uk": "Бути собою",
+            "en": " ",
+            "ru": "Бути собою"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radiojazz/logo_radiojazz.png",
+         "playlist": "https://o.tavrmedia.ua/jazz24songs",
+         "current_song": "https://o.tavrmedia.ua/jazz",
+         "playlist1": "",
+         "current_song1": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Live",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online.radiojazz.ua/RadioJazz_HD",
+               "ios": "http://online.radiojazz.ua/RadioJazz_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "web": "https://online.radiojazz.ua/RadioJazz"
+            }
+         },
+         "custom_streams": [
+            {
+               "geo_city": "Lviv",
+               "geo_point": "49.84097423551905, 24.02841264024346",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/jazz24songs",
+               "current_song": "https://o.tavrmedia.ua/jazz",
+               "regular": {
+                  "android": "http://region.tavr.media/RadioJazz-Lviv",
+                  "ios": "http://region.tavr.media/RadioJazz-Lviv"
+               },
+               "hd": {
+                  "android": "http://region.tavr.media/RadioJazz-Lviv_HD",
+                  "ios": "http://region.tavr.media/RadioJazz-Lviv_HD"
+               }
+            }
+         ]
+      },
+      {
+         "id": 762,
+         "enabled": true,
+         "sorting_id": 17,
+         "url": "classic-radio",
+         "filtering_tags": [
+            "relax"
+         ],
+         "names": {
+            "uk": "Classic Radio",
+            "en": "Classic Radio",
+            "ru": "Classic Radio",
+            "ro": "Classic Radio"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_classicradio.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24classic",
+         "current_song": "https://o.tavrmedia.ua/radio3classic",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.classicradio.com.ua/ClassicRadio_Live",
+               "ios": "http://online.classicradio.com.ua/ClassicRadio_Live",
+               "android2": "http://online-news.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online.classicradio.com.ua/ClassicRadio_HD",
+               "ios": "http://online.classicradio.com.ua/ClassicRadio_HD",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "web": "https://online.classicradio.com.ua/ClassicRadio"
+            }
+         }
+      },
+      {
+         "id": 651,
+         "enabled": true,
+         "sorting_id": 20,
+         "url": "lux-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Люкс ФМ",
+            "en": "Lux FM",
+            "ru": "Люкс ФМ",
+            "ro": "Lux FM"
+         },
+         "tags": {
+            "uk": "Розважальне радіо №1",
+            "en": " ",
+            "ru": "Розважальне радіо №1"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/lux24/logo_luxfm.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_lux-fm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_lux-fm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/LuxFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/LuxFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/LuxFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/LuxFM_HD",
+               "web": "https://icecast.luxnet.ua/lux_mp3"
+            }
+         }
+      },
+      {
+         "id": 652,
+         "enabled": true,
+         "sorting_id": 21,
+         "url": "radio-maximum",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо МАКСИМУМ",
+            "en": "Radio MAXIMUM",
+            "ru": "Радіо МАКСИМУМ",
+            "ro": "Radio MAXIMUM"
+         },
+         "tags": {
+            "uk": "Справжні хіти",
+            "en": " ",
+            "ru": "Справжні хіти"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/lux24/logo_radio-maximum.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_radio-maximum",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_radio-maximum",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/Maximum",
+               "ios": "http://cdn28rpu.radioplayer.ua/Maximum"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/Maximum_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/Maximum_HD",
+               "web": "https://icecast.luxnet.ua/maximum_mp3"
+            }
+         }
+      },
+      {
+         "id": 653,
+         "enabled": true,
+         "sorting_id": 22,
+         "url": "radio-nostalgie",
+         "filtering_tags": [
+            "pop",
+            "relax"
+         ],
+         "names": {
+            "uk": "Radio NOSTALGIE",
+            "en": "Radio NOSTALGIE",
+            "ru": "Radio NOSTALGIE",
+            "ro": "Radio NOSTALGIE"
+         },
+         "tags": {
+            "uk": "Життя зі смаком",
+            "en": " ",
+            "ru": "Життя зі смаком"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/lux24/logo_radionostalgie.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/Nostalgie",
+               "ios": "http://cdn28rpu.radioplayer.ua/Nostalgie"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/Nostalgie_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/Nostalgie_HD",
+               "web": "https://icecast.luxnet.ua/nostalgie_mp3"
+            }
+         }
+      },
+      {
+         "id": 801,
+         "enabled": true,
+         "sorting_id": 23,
+         "url": "radio-nv",
+         "filtering_tags": [
+            "news",
+            "pop",
+            "rock"
+         ],
+         "names": {
+            "uk": "Радіо NV",
+            "en": "Radio NV",
+            "ru": "Радіо NV",
+            "ro": "Radio NV"
+         },
+         "tags": {
+            "uk": "Це нове",
+            "en": " ",
+            "ru": "Це нове"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_radio-nv.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioNV",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioNV"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioNV_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioNV_HD",
+               "web": "https://online-radio.nv.ua/radionv.mp3"
+            }
+         }
+      },
+      {
+         "id": 7737,
+         "enabled": true,
+         "sorting_id": 24,
+         "url": "armiya-fm",
+         "filtering_tags": [
+            "rock"
+         ],
+         "names": {
+            "uk": "Армія FM",
+            "en": "Army FM",
+            "ru": "Армія FM",
+            "ro": "Army FM"
+         },
+         "tags": {
+            "uk": "Військове радіо",
+            "en": " ",
+            "ru": "Військове радіо"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_armyfm.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/Armia-FM",
+               "ios": "http://cdn28rpu.radioplayer.ua/Armia-FM",
+               "android2": "http://astream.radioplayer.ua/ArmyFM",
+               "ios2": "http://astream.radioplayer.ua/ArmyFM",
+               "android3": "http://212.26.132.129:8000/ArmyFM_64",
+               "ios3": "http://212.26.132.129:8000/ArmyFM_64"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/Armia-FM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/Armia-FM_HD",
+               "android2": "http://astream.radioplayer.ua/ArmyFM_HD",
+               "ios2": "http://astream.radioplayer.ua/ArmyFM_HD",
+               "android3": "http://212.26.132.129:8000/ArmyFM_320",
+               "ios3": "http://212.26.132.129:8000/ArmyFM_320"
+            }
+         }
+      },
+      {
+         "id": 7705,
+         "enabled": true,
+         "sorting_id": 25,
+         "url": "kraina-fm",
+         "filtering_tags": [
+            "pop",
+            "ukr"
+         ],
+         "names": {
+            "uk": "Країна ФМ",
+            "en": "Kraina FM",
+            "ru": "Країна ФМ",
+            "ro": "Kraina FM"
+         },
+         "tags": {
+            "uk": "100% українською",
+            "en": " ",
+            "ru": "100% українською"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_kraina-fm.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_krainafm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_krainafm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/KrainaFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/KrainaFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/KrainaFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/KrainaFM_HD",
+               "web": "https://stream.radioplayer.ua/KrainaFM"
+            }
+         }
+      },
+      {
+         "id": 7706,
+         "enabled": true,
+         "sorting_id": 26,
+         "url": "ukrayinske-radio",
+         "filtering_tags": [
+            "news"
+         ],
+         "names": {
+            "uk": "Українське Радіо",
+            "en": "Ukrayinske Radio",
+            "ru": "Українське Радіо",
+            "ro": "Ukrayinske Radio"
+         },
+         "tags": {
+            "uk": "Суспільний мовник - достовірна інформація",
+            "en": " ",
+            "ru": "Суспільний мовник - достовірна інформація"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_suspilne1.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios": "http://cdn28rpu.radioplayer.ua/UR1",
+               "aandroid": "http://radio.ukr.radio:8000/ur1-aacplus-l",
+               "iios": "http://radio.ukr.radio:8000/ur1-aacplus-l"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/UR1_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/UR1_HD",
+               "aandroid": "http://radio.ukr.radio:8000/ur1-mp3",
+               "iios": "http://radio.ukr.radio:8000/ur1-mp3"
+            }
+         }
+      },
+      {
+         "id": 7707,
+         "enabled": true,
+         "sorting_id": 27,
+         "url": "radio-promin",
+         "filtering_tags": [
+            "pop",
+            "rock",
+            "jazz",
+            "ukr"
+         ],
+         "names": {
+            "uk": "Радіо Промінь",
+            "en": "Radio Promin",
+            "ru": "Радіо Промінь",
+            "ro": "Radio Promin"
+         },
+         "tags": {
+            "uk": "Твій на 100 відсотків",
+            "en": " ",
+            "ru": "Твій на 100 відсотків"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_suspilne2.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_promin",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_promin",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/UR2",
+               "ios": "http://cdn28rpu.radioplayer.ua/UR2",
+               "aandroid": "http://radio.ukr.radio:8000/ur2-aacplus-l",
+               "iios": "http://radio.ukr.radio:8000/ur2-aacplus-l"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/UR2_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/UR2_HD",
+               "aandroid": "http://radio.ukr.radio:8000/ur2-mp3",
+               "iios": "http://radio.ukr.radio:8000/ur2-mp3"
+            }
+         }
+      },
+      {
+         "id": 7708,
+         "enabled": true,
+         "sorting_id": 28,
+         "url": "radio-kultura",
+         "filtering_tags": [
+            "jazz"
+         ],
+         "names": {
+            "uk": "Радіо Культура",
+            "en": "Radio Kultura",
+            "ru": "Радіо Культура",
+            "ro": "Radio Kultura"
+         },
+         "tags": {
+            "uk": "Просто про культуру",
+            "en": " ",
+            "ru": "Просто про культуру"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_suspilne3.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/UR3",
+               "ios": "http://cdn28rpu.radioplayer.ua/UR3",
+               "aandroid": "http://radio.ukr.radio:8000/ur3-aacplus-l",
+               "iios": "http://radio.ukr.radio:8000/ur3-aacplus-l"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/UR3_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/UR3_HD",
+               "aandroid": "http://radio.ukr.radio:8000/ur3-mp3",
+               "iios": "http://radio.ukr.radio:8000/ur3-mp3"
+            }
+         }
+      },
+      {
+         "id": 7657,
+         "enabled": true,
+         "sorting_id": 29,
+         "url": "hromadske-radio",
+         "filtering_tags": [
+            "news"
+         ],
+         "names": {
+            "uk": "Громадське Радіо",
+            "en": "Hromadske Radio",
+            "ru": "Громадське Радіо",
+            "ro": "Hromadske Radio"
+         },
+         "tags": {
+            "uk": "Слухайте. Думайте.",
+            "en": " ",
+            "ru": "Слухайте. Думайте."
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_hr.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/HR",
+               "ios": "http://cdn28rpu.radioplayer.ua/HR"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/HR_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/HR_HD",
+               "web": "https://hromadske.radio/radio_https_upstream"
+            }
+         }
+      },
+      {
+         "id": 751,
+         "enabled": true,
+         "sorting_id": 30,
+         "url": "radio-shanson",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо Шансон",
+            "en": "Radio Shanson",
+            "ru": "Радіо Шансон",
+            "ro": "Radio Shanson"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_radioshanson.png",
+         "playlist1": "https://o.tavrmedia.ua/radio24rp_radio-shanson",
+         "current_song1": "https://o.tavrmedia.ua/radio3rp_radio-shanson",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioShanson",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioShanson",
+               "android2": "http://cast.radiogroup.com.ua/shanson128",
+               "ios2": "http://cast.radiogroup.com.ua/shanson128"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioShanson_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioShanson_HD",
+               "web": "https://cast.radiogroup.com.ua/shanson128"
+            }
+         }
+      },
+      {
+         "id": 752,
+         "enabled": true,
+         "sorting_id": 31,
+         "url": "power-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Power FM",
+            "en": "Power FM",
+            "ru": "Power FM",
+            "ro": "Power FM"
+         },
+         "tags": {
+            "uk": "Станція #1",
+            "en": "Station #1",
+            "ru": "Станція #1"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_powerfm.png",
+         "playlist1": "https://o.tavrmedia.ua/radio24rp_power-fm",
+         "current_song1": "https://o.tavrmedia.ua/radio3rp_power-fm",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/PowerFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/PowerFM",
+               "android2": "http://cast.radiogroup.com.ua/powerfm128",
+               "ios2": "http://cast.radiogroup.com.ua/powerfm128"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/PowerFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/PowerFM_HD",
+               "web": "https://cast.radiogroup.com.ua/powerfm128"
+            }
+         }
+      },
+      {
+         "id": 753,
+         "enabled": true,
+         "sorting_id": 32,
+         "url": "dj-fm",
+         "filtering_tags": [
+            "pop",
+            "dance"
+         ],
+         "names": {
+            "uk": "DJ FM",
+            "en": "DJ FM",
+            "ru": "DJ FM",
+            "ro": "DJ FM"
+         },
+         "tags": {
+            "uk": "Роби гучніше!",
+            "en": " ",
+            "ru": "Роби гучніше!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_djfm.png",
+         "playlist1": "https://o.tavrmedia.ua/radio24rp_dj-fm",
+         "current_song1": "https://o.tavrmedia.ua/radio3rp_dj-fm",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/DJFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/DJFM",
+               "android2": "http://cast.radiogroup.com.ua/djfm128",
+               "ios2": "http://cast.radiogroup.com.ua/djfm128"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/DJFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/DJFM_HD",
+               "web": "https://cast.radiogroup.com.ua/djfm128"
+            }
+         }
+      },
+      {
+         "id": 754,
+         "enabled": true,
+         "sorting_id": 33,
+         "url": "biznes-radio",
+         "filtering_tags": [
+            "pop",
+            "rock"
+         ],
+         "names": {
+            "uk": "Бізнес Радіо",
+            "en": "Business Radio",
+            "ru": "Бізнес Радіо",
+            "ro": "Business Radio"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_business.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_biznes-radio",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_biznes-radio",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/BiznesRadio",
+               "ios": "http://cdn28rpu.radioplayer.ua/BiznesRadio",
+               "android2": "http://cast.radiogroup.com.ua/businessradio128",
+               "ios2": "http://cast.radiogroup.com.ua/businessradio128"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/BiznesRadio_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/BiznesRadio_HD",
+               "web": "https://cast.radiogroup.com.ua/businessradio128"
+            }
+         }
+      },
+      {
+         "id": 7701,
+         "enabled": false,
+         "sorting_id": 34,
+         "url": "radio-ukrainskyh-dorig",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо Українських Доріг",
+            "en": "Radio Ukrainskyh Dorig",
+            "ru": "Радіо Українських Доріг",
+            "ro": "Radio Ukrainskyh Dorig"
+         },
+         "tags": {
+            "uk": "Усі дороги до перемоги!",
+            "en": " ",
+            "ru": "Усі дороги до перемоги!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_rud.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_radio-pyatnica",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_radio-pyatnica",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioPyatnica",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioPyatnica"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioPyatnica_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioPyatnica_HD",
+               "web": "https://cast.radiogroup.com.ua/radiopyatnica"
+            }
+         }
+      },
+      {
+         "id": 7653,
+         "enabled": false,
+         "sorting_id": 35,
+         "url": "nrj",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "NRJ",
+            "en": "NRJ",
+            "ru": "NRJ",
+            "ro": "NRJ"
+         },
+         "tags": {
+            "uk": "Hit Music Only!",
+            "en": "Hit Music Only!",
+            "ru": "Hit Music Only!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_nrj.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_nrj",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_nrj",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/NRJ",
+               "ios": "http://cdn28rpu.radioplayer.ua/NRJ"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/NRJ_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/NRJ_HD",
+               "web": "https://cast.radiogroup.com.ua/nrj"
+            }
+         }
+      },
+      {
+         "id": 7702,
+         "enabled": false,
+         "sorting_id": 36,
+         "url": "retro-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Ретро FM",
+            "en": "Retro FM",
+            "ru": "Ретро FM",
+            "ro": "Retro FM"
+         },
+         "tags": {
+            "uk": "Круто бути молодим",
+            "en": " ",
+            "ru": "Круто бути молодим"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/umh/logo_retrofm.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_retro-fm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_retro-fm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RetroFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/RetroFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RetroFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RetroFM_HD",
+               "web": "https://cast.radiogroup.com.ua/retro"
+            }
+         }
+      },
+      {
+         "id": 7703,
+         "enabled": false,
+         "sorting_id": 37,
+         "url": "avtoradio",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Авторадіо",
+            "en": "Avtoradio",
+            "ru": "Авторадіо",
+            "ro": "Avtoradio"
+         },
+         "tags": {
+            "uk": "Автомобільне радіо №1",
+            "en": " ",
+            "ru": "Автомобільне радіо №1"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/umh/logo_avtoradio.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_avtoradio",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_avtoradio",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/Avtoradio",
+               "ios": "http://cdn28rpu.radioplayer.ua/Avtoradio"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/Avtoradio_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/Avtoradio_HD",
+               "web": "https://cast.radiogroup.com.ua/avtoradio"
+            }
+         }
+      },
+      {
+         "id": 7654,
+         "enabled": false,
+         "sorting_id": 38,
+         "url": "lounge-fm",
+         "filtering_tags": [
+            "relax"
+         ],
+         "names": {
+            "uk": "Lounge FM",
+            "en": "Lounge FM",
+            "ru": "Lounge FM",
+            "ro": "Lounge FM"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_loungefm.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_lounge-fm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_lounge-fm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/LoungeFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/LoungeFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/LoungeFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/LoungeFM_HD",
+               "web": "https://cast.radiogroup.com.ua/loungefm"
+            }
+         }
+      },
+      {
+         "id": 7704,
+         "enabled": false,
+         "sorting_id": 39,
+         "url": "jam-fm",
+         "filtering_tags": [
+            "rock"
+         ],
+         "names": {
+            "uk": "Джем FM",
+            "en": "Jam FM",
+            "ru": "Джем FM",
+            "ro": "Jam FM"
+         },
+         "tags": {
+            "uk": "Територія твоєї свободи",
+            "en": " ",
+            "ru": "Територія твоєї свободи"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/umh/logo_jamfm.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_jam-fm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_jam-fm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/JamFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/JamFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/JamFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/JamFM_HD",
+               "web": "https://cast.radiogroup.com.ua/jamfm"
+            }
+         }
+      },
+      {
+         "id": 7738,
+         "enabled": true,
+         "sorting_id": 40,
+         "url": "tryzub-fm",
+         "filtering_tags": [
+            "rock"
+         ],
+         "names": {
+            "uk": "Тризуб FM",
+            "en": "Tryzub FM",
+            "ru": "Тризуб FM",
+            "ro": "Tryzub FM"
+         },
+         "tags": {
+            "uk": "Радіо вільних людей",
+            "en": " ",
+            "ru": "Радіо вільних людей"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_tryzubfm.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_tryzub-fm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_tryzub-fm",
+         "streams": {
+            "regular": {
+               "aandroid": "http://91.204.112.15:8000/aacp64",
+               "iios": "http://91.204.112.15:8000/aacp64",
+               "android": "http://cdn28rpu.radioplayer.ua/TryzubFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/TryzubFM"
+            },
+            "hd": {
+               "aandroid": "http://91.204.112.15:8000/radio320.mp3",
+               "iios": "http://91.204.112.15:8000/radio320.mp3",
+               "android": "http://cdn28rpu.radioplayer.ua/TryzubFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/TryzubFM_HD",
+               "web": "https://stream.radioplayer.ua/TryzubFM"
+            }
+         }
+      },
+      {
+         "id": 7660,
+         "enabled": true,
+         "sorting_id": 41,
+         "url": "radio-m",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Radio M",
+            "en": "Radio M",
+            "ru": "Radio M",
+            "ro": "Radio M"
+         },
+         "tags": {
+            "uk": "Завжди поруч",
+            "en": " ",
+            "ru": "Завжди поруч"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_radiom.jpg",
+         "playlist1": "https://o.tavrmedia.ua/radio24rp_radiom",
+         "current_song1": "https://o.tavrmedia.ua/radio3rp_radiom",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioM",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioM",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioM",
+               "web": "https://stream.radiom.ua/mp3_high"
+            }
+         }
+      },
+      {
+         "id": 7635,
+         "enabled": true,
+         "sorting_id": 42,
+         "url": "kyiv-fm",
+         "filtering_tags": [
+            "pop",
+            "news"
+         ],
+         "names": {
+            "uk": "Київ FM",
+            "en": "Kyiv FM",
+            "ru": "Київ FM",
+            "ro": "Kyiv FM"
+         },
+         "tags": {
+            "uk": "Cучасна музика, актуальні новини",
+            "en": " ",
+            "ru": "Cучасна музика, актуальні новини"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_kyivfm.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/KyivFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/KyivFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/KyivFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/KyivFM_HD",
+               "web": "https://cdn.vsnw.net:8943/kyiv_fm_128k"
+            }
+         }
+      },
+      {
+         "id": 7617,
+         "enabled": true,
+         "sorting_id": 50,
+         "url": "fm-galychyna",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "FM Галичина",
+            "en": "FM Galychyna",
+            "ru": "FM Галичина",
+            "ro": "FM Galychyna"
+         },
+         "tags": {
+            "uk": "Слухай своє - файне!",
+            "en": " ",
+            "ru": "Слухай своє - файне!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_fmgalychyna.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/FMGalychyna",
+               "ios": "http://cdn28rpu.radioplayer.ua/FMGalychyna"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/FMGalychyna_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/FMGalychyna_HD",
+               "web": "https://stream320.galychyna.fm/RadioPlayer"
+            }
+         }
+      },
+      {
+         "id": 7614,
+         "enabled": true,
+         "sorting_id": 51,
+         "url": "lvivska-hvylia",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Львівська Хвиля",
+            "en": "Lvivska Hvylya",
+            "ru": "Львівська Хвиля",
+            "ro": "Lvivska Hvylya"
+         },
+         "tags": {
+            "uk": "Сьогодні твій день",
+            "en": " ",
+            "ru": "Сьогодні твій день"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_lvivfm.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/LvivHvylia",
+               "ios": "http://cdn28rpu.radioplayer.ua/LvivHvylia"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/LvivHvylia_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/LvivHvylia_HD",
+               "web": "https://onair.lviv.fm:8443/lviv.fm"
+            }
+         }
+      },
+      {
+         "id": 7615,
+         "enabled": true,
+         "sorting_id": 52,
+         "url": "lux-fm-lviv",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Люкс ФМ (Львів)",
+            "en": "Lux FM (Lviv)",
+            "ru": "Люкс ФМ (Львів)",
+            "ro": "Lux FM (Lviv)"
+         },
+         "tags": {
+            "uk": "Розважальне радіо №1",
+            "en": " ",
+            "ru": "Розважальне радіо №1"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/lux24/logo_luxfm.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/LuxFMLviv",
+               "ios": "http://cdn28rpu.radioplayer.ua/LuxFMLviv"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/LuxFMLviv_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/LuxFMLviv_HD",
+               "web": "https://icecast.luxnet.ua/luxlviv_mp3_320"
+            }
+         }
+      },
+      {
+         "id": 7624,
+         "enabled": true,
+         "sorting_id": 53,
+         "url": "duzhe-radio",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Дуже Радіо",
+            "en": "Duzhe Radio",
+            "ru": "Дуже Радіо",
+            "ro": "Duzhe Radio"
+         },
+         "tags": {
+            "uk": "Музика в ритмі твого життя",
+            "en": " ",
+            "ru": "Музика в ритмі твого життя"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_duzheradio.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_duzhe-radio",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_duzhe-radio",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/DuzheRadio",
+               "ios": "http://cdn28rpu.radioplayer.ua/DuzheRadio"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/DuzheRadio_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/DuzheRadio_HD",
+               "web": "https://stream.radioplayer.ua/DuzheRadio_HD"
+            }
+         }
+      },
+      {
+         "id": 7639,
+         "enabled": true,
+         "sorting_id": 54,
+         "url": "vgolos-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Вголос FM",
+            "en": "Vgolos FM",
+            "ru": "Вголос FM",
+            "ro": "Vgolos FM"
+         },
+         "tags": {
+            "uk": "Менше реклами - більше хітів!",
+            "en": " ",
+            "ru": "Менше реклами - більше хітів!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_vgolos.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_vgolos-fm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_vgolos-fm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/Vgolos",
+               "ios": "http://cdn28rpu.radioplayer.ua/Vgolos"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/Vgolos_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/Vgolos_HD",
+               "web": "https://cast108372.customer.uar.net/vgolos320"
+            }
+         }
+      },
+      {
+         "id": 7642,
+         "enabled": true,
+         "sorting_id": 55,
+         "url": "radio-nezalezhnist",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо Незалежність",
+            "en": "Radio Nezalezhnist",
+            "ru": "Радіо Незалежність",
+            "ro": "Radio Nezalezhnist"
+         },
+         "tags": {
+            "uk": "Встань з колін, народе мій",
+            "en": " ",
+            "ru": "Встань з колін, народе мій"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_nezalezhnist.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/Nezaleznhist",
+               "ios": "http://cdn28rpu.radioplayer.ua/Nezaleznhist"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/Nezaleznhist_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/Nezaleznhist_HD",
+               "web": "https://stream.radioplayer.ua/Nezaleznhist_HD"
+            }
+         }
+      },
+      {
+         "id": 7645,
+         "enabled": true,
+         "sorting_id": 56,
+         "url": "radio-pershe",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо ПЕРШЕ",
+            "en": "Radio PERSHE",
+            "ru": "Радіо ПЕРШЕ",
+            "ro": "Radio PERSHE"
+         },
+         "tags": {
+            "uk": "Простір для важливих думок",
+            "en": " ",
+            "ru": "Простір для важливих думок"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_radiopershe.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/Pershe",
+               "ios": "http://cdn28rpu.radioplayer.ua/Pershe"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/Pershe_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/Pershe_HD",
+               "web": "https://live.radiopershe.com/liveradio320"
+            }
+         }
+      },
+      {
+         "id": 7616,
+         "enabled": true,
+         "sorting_id": 57,
+         "url": "radio-trek",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо Трек",
+            "en": "Radio Trek",
+            "ru": "Радіо Трек",
+            "ro": "Radio Trek"
+         },
+         "tags": {
+            "uk": "Музика Агонь!",
+            "en": " ",
+            "ru": "Музика Агонь!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_radiotrek.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_radiotrek",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_radiotrek",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioTrek",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioTrek"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioTrek_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioTrek_HD",
+               "web": "https://audio.radiotrek.rv.ua/",
+               "wweb": "https://stream.radioplayer.ua/RadioTrek"
+            }
+         }
+      },
+      {
+         "id": 7618,
+         "enabled": true,
+         "sorting_id": 58,
+         "url": "zakhidnyi-polyus",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Західний Полюс",
+            "en": "Zakhidnyi Polyus",
+            "ru": "Західний Полюс",
+            "ro": "Zakhidnyi Polyus"
+         },
+         "tags": {
+            "uk": "Найтепліший полюс планети",
+            "en": " ",
+            "ru": "Найтепліший полюс планети"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_zahpolus.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_zpolus",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_zpolus",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/ZahPolyus",
+               "ios": "http://cdn28rpu.radioplayer.ua/ZahPolyus"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/ZahPolyus_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/ZahPolyus_HD",
+               "web": "https://online.1043.com.ua/1043fm"
+            }
+         }
+      },
+      {
+         "id": 7623,
+         "enabled": true,
+         "sorting_id": 59,
+         "url": "radio-vezha",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо Вежа",
+            "en": "Radio Vezha",
+            "ru": "Радіо Вежа",
+            "ro": "Radio Vezha"
+         },
+         "tags": {
+            "uk": "Відрізняйся!",
+            "en": " ",
+            "ru": "Відрізняйся!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_radiovezha.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioVezha",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioVezha"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioVezha_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioVezha_HD",
+               "web": "https://stream.radioplayer.ua/RadioVezha_HD"
+            }
+         }
+      },
+      {
+         "id": 7667,
+         "enabled": true,
+         "sorting_id": 60,
+         "url": "radio-dzvony",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо Дзвони",
+            "en": "Radio Dzvony",
+            "ru": "Радіо Дзвони",
+            "ro": "Radio Dzvony"
+         },
+         "tags": {
+            "uk": "Рідна музика. Рідне радіо.",
+            "en": " ",
+            "ru": "Рідна музика. Рідне радіо."
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_radiodzvony.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_dzvony",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_dzvony",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/Dzvony",
+               "ios": "http://cdn28rpu.radioplayer.ua/Dzvony"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/Dzvony_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/Dzvony_HD",
+               "wweb": "https://stream.radioplayer.ua/"
+            }
+         }
+      },
+      {
+         "id": 7619,
+         "enabled": true,
+         "sorting_id": 61,
+         "url": "bukovynska-hvylia",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Буковинська Хвиля",
+            "en": "Bukovynska Hvylia",
+            "ru": "Буковинська Хвиля",
+            "ro": "Bukovynska Hvylia"
+         },
+         "tags": {
+            "uk": "Ти в безпеці",
+            "en": " ",
+            "ru": "Ти в безпеці"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_bykovynska.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_bukovynska-hvylia",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_bukovynska-hvylia",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/BukHvylia",
+               "ios": "http://cdn28rpu.radioplayer.ua/BukHvylia"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/BukHvylia_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/BukHvylia_HD",
+               "web": "https://100.cv.ua:8443/play"
+            }
+         }
+      },
+      {
+         "id": 7620,
+         "enabled": true,
+         "sorting_id": 62,
+         "url": "radio-10",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо 10",
+            "en": "Radio 10",
+            "ru": "Радіо 10",
+            "ro": "Radio 10"
+         },
+         "tags": {
+            "uk": "Почуй усе!",
+            "en": " ",
+            "ru": "Почуй усе!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_radio10.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_radio-10",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_radio-10",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/Radio10",
+               "ios": "http://cdn28rpu.radioplayer.ua/Radio10"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/Radio10_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/Radio10_HD",
+               "web": "https://stream.radioplayer.ua/Radio10_HD"
+            }
+         }
+      },
+      {
+         "id": 7636,
+         "enabled": true,
+         "sorting_id": 63,
+         "url": "radio-c4",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо C4",
+            "en": "Radio C4",
+            "ru": "Радіо C4",
+            "ro": "Radio C4"
+         },
+         "tags": {
+            "uk": "Заряджаємо на Перемогу",
+            "en": " ",
+            "ru": "Заряджаємо на Перемогу"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_c4.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_radioc4",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_radioc4",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/C4",
+               "ios": "http://cdn28rpu.radioplayer.ua/C4"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/C4_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/C4_HD"
+            }
+         }
+      },
+      {
+         "id": 7621,
+         "enabled": true,
+         "sorting_id": 64,
+         "url": "uh-radio",
+         "filtering_tags": [
+            "pop",
+            "ukr"
+         ],
+         "names": {
+            "uk": "Ух-радіо",
+            "en": "Uh-radio",
+            "ru": "Ух-радіо",
+            "ro": "Uh-radio"
+         },
+         "tags": {
+            "uk": "Твоє. Рідне. Українське",
+            "en": " ",
+            "ru": "Твоє. Рідне. Українське"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_uhradio.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/UhRadio",
+               "ios": "http://cdn28rpu.radioplayer.ua/UhRadio"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/UhRadio_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/UhRadio_HD",
+               "web": "https://stream.radioplayer.ua/UhRadio"
+            }
+         }
+      },
+      {
+         "id": 7622,
+         "enabled": true,
+         "sorting_id": 65,
+         "url": "radio-takt",
+         "filtering_tags": [
+            "rock"
+         ],
+         "names": {
+            "uk": "Радіо Такт",
+            "en": "Radio Takt",
+            "ru": "Радіо Такт",
+            "ro": "Radio Takt"
+         },
+         "tags": {
+            "uk": "Ми справжні",
+            "en": " ",
+            "ru": "Ми справжні"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_radiotakt.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_radiotakt",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_radiotakt",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioTakt",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioTakt"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioTakt_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioTakt_HD",
+               "web": "https://radiotakt.com.ua:8443/takt.mp3"
+            }
+         }
+      },
+      {
+         "id": 7651,
+         "enabled": true,
+         "sorting_id": 66,
+         "url": "misto-nad-bugom",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Місто над Бугом",
+            "en": "Misto nad Bugom",
+            "ru": "Місто над Бугом",
+            "ro": "Misto nad Bugom"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_mnb.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_misto-nad-bugom",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_misto-nad-bugom",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/MistoNadBugom",
+               "ios": "http://cdn28rpu.radioplayer.ua/MistoNadBugom"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/MistoNadBugom_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/MistoNadBugom_HD",
+               "web": "https://stream.mistonadbugom.com.ua/radiomistonadbugom"
+            }
+         }
+      },
+      {
+         "id": 7625,
+         "enabled": true,
+         "sorting_id": 67,
+         "url": "okey-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Окей ФМ",
+            "en": "Okey FM",
+            "ru": "Окей ФМ",
+            "ro": "Okey FM"
+         },
+         "tags": {
+            "uk": "Кожна пісня на своєму місці",
+            "en": " ",
+            "ru": "Кожна пісня на своєму місці"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_okeyfm.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/OK-FM",
+               "ios": "http://cdn28rpu.radioplayer.ua/OK-FM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/OK-FM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/OK-FM_HD",
+               "web": "https://stream.radioplayer.ua/OkeyFM_HD"
+            }
+         }
+      },
+      {
+         "id": 7629,
+         "enabled": false,
+         "sorting_id": 68,
+         "url": "radio-city",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо Сіті",
+            "en": "Radio City",
+            "ru": "Радіо Сіті",
+            "ro": "Radio City"
+         },
+         "tags": {
+            "uk": "В ритмі сучасного міста",
+            "en": " ",
+            "ru": "В ритмі сучасного міста"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_radiocity.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioCity",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioCity"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioCity_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioCity_HD",
+               "web": "https://cdn10.live-tv.od.ua:8083/cityfm/128k/icecast.audio",
+               "wweb": "https://stream.radioplayer.ua/RadioCity"
+            }
+         }
+      },
+      {
+         "id": 7640,
+         "enabled": false,
+         "sorting_id": 69,
+         "url": "z-radio",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Z-Радіо",
+            "en": "Z-Radio",
+            "ru": "Z-Радіо",
+            "ro": "Z-Radio"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_z-radio.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/Z-Radio",
+               "ios": "http://cdn28rpu.radioplayer.ua/Z-Radio"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/Z-Radio_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/Z-Radio_HD",
+               "web": "https://stream.radioplayer.ua/Z-Radio"
+            }
+         }
+      },
+      {
+         "id": 7646,
+         "enabled": false,
+         "sorting_id": 70,
+         "url": "one-fm",
+         "filtering_tags": [
+            "pop",
+            "dance"
+         ],
+         "names": {
+            "uk": "One FM",
+            "en": "One FM",
+            "ru": "One FM",
+            "ro": "One FM"
+         },
+         "tags": {
+            "uk": "MAXIMUM DANCE MUSIC",
+            "en": "MAXIMUM DANCE MUSIC",
+            "ru": "MAXIMUM DANCE MUSIC"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_onefm.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_one-fm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_one-fm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/OneFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/OneFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/OneFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/OneFM_HD",
+               "web": "https://stream.radioplayer.ua/OneFM_HD"
+            }
+         }
+      },
+      {
+         "id": 7664,
+         "enabled": true,
+         "sorting_id": 71,
+         "url": "radio-novaline",
+         "filtering_tags": [
+            "pop",
+            "dance"
+         ],
+         "names": {
+            "uk": "Радіо NovaLine",
+            "en": "Radio NovaLine",
+            "ru": "Радіо NovaLine",
+            "ro": "Radio NovaLine"
+         },
+         "tags": {
+            "uk": "Dance Hit Radio",
+            "en": "Dance Hit Radio",
+            "ru": "Dance Hit Radio"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_novalinezp.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_novaline",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_novaline",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/NovaLine",
+               "ios": "http://cdn28rpu.radioplayer.ua/NovaLine"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/NovaLine_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/NovaLine_HD",
+               "web": "https://stream.novaline.net.ua/Novaline_128"
+            }
+         },
+         "custom_streams": [
+            {
+               "geo_city": "Sumy",
+               "geo_point": "50.907719166843684, 34.7982441067891",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/radio24rp_novalinesumy",
+               "current_song": "https://o.tavrmedia.ua/radio3rp_novalinesumy",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://cdn28rpu.radioplayer.ua/NovaLineSumy",
+                  "ios": "http://cdn28rpu.radioplayer.ua/NovaLineSumy"
+               },
+               "hd": {
+                  "android": "http://cdn28rpu.radioplayer.ua/NovaLineSumy_HD",
+                  "ios": "http://cdn28rpu.radioplayer.ua/NovaLineSumy_HD"
+               }
+            },
+            {
+               "geo_city": "Zp",
+               "geo_point": "47.83853429406391, 35.190309704791105",
+               "geo_radius": "100",
+               "playlist": "https://o.tavrmedia.ua/radio24rp_novalinezp",
+               "current_song": "https://o.tavrmedia.ua/radio3rp_novalinezp",
+               "playlist1": "",
+               "current_song1": "",
+               "regular": {
+                  "android": "http://cdn28rpu.radioplayer.ua/NovaLineZp",
+                  "ios": "http://cdn28rpu.radioplayer.ua/NovaLineZp"
+               },
+               "hd": {
+                  "android": "http://cdn28rpu.radioplayer.ua/NovaLineZp_HD",
+                  "ios": "http://cdn28rpu.radioplayer.ua/NovaLineZp_HD"
+               }
+            }
+         ]
+      },
+      {
+         "id": 7637,
+         "enabled": true,
+         "sorting_id": 72,
+         "url": "mfm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "MFM",
+            "en": "MFM",
+            "ru": "MFM",
+            "ro": "MFM"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_mfm.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_mfm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_mfm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/MFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/MFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/MFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/MFM_HD",
+               "web": "https://radio.mfm.ua/online128"
+            }
+         }
+      },
+      {
+         "id": 7665,
+         "enabled": true,
+         "sorting_id": 73,
+         "url": "radio-nakypilo",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо Накипіло",
+            "en": "Radio Nakypilo",
+            "ru": "Радіо Накипіло",
+            "ro": "Radio Nakypilo"
+         },
+         "tags": {
+            "uk": "Про місто. Про людей. Про тебе",
+            "en": " ",
+            "ru": "Про місто. Про людей. Про тебе"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_nakypilo.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_nakypilo",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_nakypilo",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/Nakypilo",
+               "ios": "http://cdn28rpu.radioplayer.ua/Nakypilo"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/Nakypilo_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/Nakypilo_HD"
+            }
+         }
+      },
+      {
+         "id": 7638,
+         "enabled": true,
+         "sorting_id": 74,
+         "url": "europa-plus-dnipro",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Europa Plus Дніпро",
+            "en": "Europa Plus Dnipro",
+            "ru": "Europa Plus Дніпро",
+            "ro": "Europa Plus Dnipro"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_europaplusdnipro.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_europaplus-dp",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_europaplus-dp",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/EuropaPlusDnipro",
+               "ios": "http://cdn28rpu.radioplayer.ua/EuropaPlusDnipro"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/EuropaPlusDnipro_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/EuropaPlusDnipro_HD",
+               "web": "https://stream.radioplayer.ua/EuropaPlusDnipro"
+            }
+         }
+      },
+      {
+         "id": 7658,
+         "enabled": true,
+         "sorting_id": 75,
+         "url": "informator-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Інформатор ФМ",
+            "en": "Informator FM",
+            "ru": "Інформатор ФМ",
+            "ro": "Informator FM"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_informator.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_informator-dp",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_informator-dp",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/InformatorFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/InformatorFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/InformatorFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/InformatorFM_HD",
+               "web": "https://main.inf.fm:8101/"
+            }
+         }
+      },
+      {
+         "id": 7632,
+         "enabled": true,
+         "sorting_id": 76,
+         "url": "tim-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "ТІМ FM",
+            "en": "TIM FM",
+            "ru": "ТІМ FM",
+            "ro": "TIM FM"
+         },
+         "tags": {
+            "uk": "Будь собою",
+            "en": " ",
+            "ru": "Будь собою"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_timfm.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/TIMFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/TIMFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/TIMFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/TIMFM_HD",
+               "web": "https://tim-fm.tim.ua/mp3"
+            }
+         }
+      },
+      {
+         "id": 7650,
+         "enabled": true,
+         "sorting_id": 99,
+         "url": "topradio",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "TopRadio",
+            "en": "TopRadio",
+            "ru": "TopRadio",
+            "ro": "TopRadio"
+         },
+         "tags": {
+            "uk": "Радіо твого міста",
+            "en": " ",
+            "ru": "Радіо твого міста"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_topradio.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_topradio",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_topradio",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/TopRadio",
+               "ios": "http://cdn28rpu.radioplayer.ua/TopRadio"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/TopRadio_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/TopRadio_HD",
+               "web": "https://stream.topradio.in.ua/topradio.mp3"
+            }
+         }
+      },
+      {
+         "id": 7633,
+         "enabled": true,
+         "sorting_id": 100,
+         "url": "blits-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Бліц ФМ",
+            "en": "Blits FM",
+            "ru": "Бліц ФМ",
+            "ro": "Blits FM"
+         },
+         "tags": {
+            "uk": "Головне радіо міста",
+            "en": " ",
+            "ru": "Головне радіо міста"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_blitsfm.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_blitsfm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_blitsfm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/BlitsFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/BlitsFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/BlitsFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/BlitsFM_HD",
+               "web": "https://stream.blits-fm.ua/stream128"
+            }
+         }
+      },
+      {
+         "id": 7612,
+         "enabled": true,
+         "sorting_id": 101,
+         "url": "boguslav-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Богуслав-FM",
+            "en": "Boguslav-FM",
+            "ru": "Богуслав-FM",
+            "ro": "Boguslav-FM"
+         },
+         "tags": {
+            "uk": "Твоя найближча радіостанція",
+            "en": " ",
+            "ru": "Твоя найближча радіостанція"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_boguslavfm.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_boguslav-fm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_boguslav-fm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/BoguslavFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/BoguslavFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/BoguslavFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/BoguslavFM_HD",
+               "web": "https://complex.in.ua/b320"
+            }
+         }
+      },
+      {
+         "id": 7628,
+         "enabled": true,
+         "sorting_id": 102,
+         "url": "podilske-radio",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Подільське Радіо",
+            "en": "Podilske Radio",
+            "ru": "Подільське Радіо",
+            "ro": "Podilske Radio"
+         },
+         "tags": {
+            "uk": "Створюємо гарний настрій",
+            "en": " ",
+            "ru": "Створюємо гарний настрій"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_podilskeradio.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_podilske-radio",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_podilske-radio",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/PodilskeRadio",
+               "ios": "http://cdn28rpu.radioplayer.ua/PodilskeRadio"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/PodilskeRadio_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/PodilskeRadio_HD",
+               "web": "https://podilske.com:8013/p-radio"
+            }
+         }
+      },
+      {
+         "id": 7630,
+         "enabled": true,
+         "sorting_id": 103,
+         "url": "tvoe-radio",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Твоє Радіо",
+            "en": "Tvoe Radio",
+            "ru": "Твоє Радіо",
+            "ro": "Tvoe Radio"
+         },
+         "tags": {
+            "uk": "Твоє рідне радіо",
+            "en": " ",
+            "ru": "Твоє рідне радіо"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_tvoeradio.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_tvoeradio",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_tvoeradio",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/TvoeRadio",
+               "ios": "http://cdn28rpu.radioplayer.ua/TvoeRadio"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/TvoeRadio_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/TvoeRadio_HD",
+               "web": "https://complex.in.ua/tvoeRadio"
+            }
+         }
+      },
+      {
+         "id": 7643,
+         "enabled": true,
+         "sorting_id": 104,
+         "url": "stryi-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Стрий ФМ",
+            "en": "Stryi FM",
+            "ru": "Стрий ФМ",
+            "ro": "Stryi FM"
+         },
+         "tags": {
+            "uk": "Радіо твого міста",
+            "en": " ",
+            "ru": "Радіо твого міста"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_stryifm.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_stryi-fm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_stryi-fm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/StryiFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/StryiFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/StryiFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/StryiFM_HD",
+               "web": "https://stream.radioplayer.ua/StryiFM"
+            }
+         }
+      },
+      {
+         "id": 7644,
+         "enabled": true,
+         "sorting_id": 105,
+         "url": "fresh-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Фреш ФМ",
+            "en": "Fresh FM",
+            "ru": "Фреш ФМ",
+            "ro": "Fresh FM"
+         },
+         "tags": {
+            "uk": "Твій ковток свіжості",
+            "en": " ",
+            "ru": "Твій ковток свіжості"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_freshfm.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_fresh-fm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_fresh-fm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/FreshFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/FreshFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/FreshFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/FreshFM_HD",
+               "web": "https://stream.radioplayer.ua/FreshFM"
+            }
+         }
+      },
+      {
+         "id": 7641,
+         "enabled": true,
+         "sorting_id": 106,
+         "url": "radio-smak",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо Смак",
+            "en": "Radio Smak",
+            "ru": "Радіо Смак",
+            "ro": "Radio Smak"
+         },
+         "tags": {
+            "uk": "Найсмачніше радіо",
+            "en": " ",
+            "ru": "Найсмачніше радіо"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_radiosmak.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_radio-smak",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_radio-smak",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioSmak",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioSmak"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioSmak_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioSmak_HD",
+               "web": "https://complex.in.ua/smakHD"
+            }
+         }
+      },
+      {
+         "id": 7649,
+         "enabled": true,
+         "sorting_id": 107,
+         "url": "brody-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Броди ФМ",
+            "en": "Brody FM",
+            "ru": "Броди ФМ",
+            "ro": "Brody FM"
+         },
+         "tags": {
+            "uk": "Настрій в тобі!",
+            "en": " ",
+            "ru": "Настрій в тобі!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_brodyfm.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/BrodyFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/BrodyFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/BrodyFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/BrodyFM_HD",
+               "web": "https://complex.in.ua/brodyHD"
+            }
+         }
+      },
+      {
+         "id": 7648,
+         "enabled": true,
+         "sorting_id": 108,
+         "url": "zhydachiv-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Жидачів ФМ",
+            "en": "Zhydachiv FM",
+            "ru": "Жидачів ФМ",
+            "ro": "Zhydachiv FM"
+         },
+         "tags": {
+            "uk": "Своє радіо",
+            "en": " ",
+            "ru": "Своє радіо"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_zhydachivfm.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/ZhydachivFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/ZhydachivFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/ZhydachivFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/ZhydachivFM_HD",
+               "web": "https://complex.in.ua/zhudachivHD"
+            }
+         }
+      },
+      {
+         "id": 7659,
+         "enabled": true,
+         "sorting_id": 109,
+         "url": "yantarne-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "YANTARNE.FM",
+            "en": "YANTARNE.FM",
+            "ru": "YANTARNE.FM",
+            "ro": "YANTARNE.FM"
+         },
+         "tags": {
+            "uk": "Радіо рідного міста",
+            "en": " ",
+            "ru": "Радіо рідного міста"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_yantarnefm.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_yantarne",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_yantarne",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/YantarneFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/YantarneFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/YantarneFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/YantarneFM_HD",
+               "web": "https://complex.in.ua/yantarne320"
+            }
+         }
+      },
+      {
+         "id": 7663,
+         "enabled": true,
+         "sorting_id": 110,
+         "url": "yavir-fm",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Явір FM",
+            "en": "Yavir FM",
+            "ru": "Явір FM",
+            "ro": "Yavir FM"
+         },
+         "tags": {
+            "uk": "Радіо Яворового краю",
+            "en": " ",
+            "ru": "Радіо Яворового краю"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_yavirfm.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_yavir",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_yavir",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/YavirFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/YavirFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/YavirFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/YavirFM_HD",
+               "web": "https://complex.in.ua/Yavir320"
+            }
+         }
+      },
+      {
+         "id": 7652,
+         "enabled": true,
+         "sorting_id": 111,
+         "url": "radio7",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Radio7",
+            "en": "Radio7",
+            "ru": "Radio7",
+            "ro": "Radio7"
+         },
+         "tags": {
+            "uk": "Добре налаштоване!",
+            "en": " ",
+            "ru": "Добре налаштоване!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_radio7.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/Radio7",
+               "ios": "http://cdn28rpu.radioplayer.ua/Radio7"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/Radio7_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/Radio7_HD",
+               "web": "https://video1.getstreamhosting.com:8298/stream"
+            }
+         }
+      },
+      {
+         "id": 7647,
+         "enabled": true,
+         "sorting_id": 112,
+         "url": "rai-radio",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "РАІ-Радіо",
+            "en": "RAI-Radio",
+            "ru": "РАІ-Радіо",
+            "ro": "RAI-Radio"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_rai.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RAI",
+               "ios": "http://cdn28rpu.radioplayer.ua/RAI"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RAI_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RAI_HD",
+               "web": "https://radio.rai.ua:9000/"
+            }
+         }
+      },
+      {
+         "id": 7631,
+         "enabled": true,
+         "sorting_id": 113,
+         "url": "radio-syaivo",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо Сяйво",
+            "en": "Radio Syaivo",
+            "ru": "Радіо Сяйво",
+            "ro": "Radio Syaivo"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_syaivo.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioSyaivo",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioSyaivo"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioSyaivo_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioSyaivo_HD",
+               "web": "https://stream.ntktv.ua/syaivo.mp3"
+            }
+         }
+      },
+      {
+         "id": 7656,
+         "enabled": true,
+         "sorting_id": 114,
+         "url": "",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Надвірна ФМ",
+            "en": "Nadvirna FM",
+            "ru": "Надвірна ФМ",
+            "ro": "Nadvirna FM"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_nadvirna-fm.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_nadvirnafm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_nadvirnafm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/NadvirnaFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/NadvirnaFM",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/NadvirnaFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/NadvirnaFM_HD",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            }
+         }
+      },
+      {
+         "id": 7626,
+         "enabled": false,
+         "sorting_id": 115,
+         "url": "radio-planeta",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо Планета",
+            "en": "Radio Planeta",
+            "ru": "Радіо Планета",
+            "ro": "Radio Planeta"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_radioplaneta.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioPlaneta",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioPlaneta"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioPlaneta_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioPlaneta_HD"
+            }
+         }
+      },
+      {
+         "id": 7627,
+         "enabled": false,
+         "sorting_id": 116,
+         "url": "galaktyka-plus",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Галактика Плюс",
+            "en": "Galaktyka Plus",
+            "ru": "Галактика Плюс",
+            "ro": "Galaktyka Plus"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_galaktykaplus.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/GalaktykaPlus",
+               "ios": "http://cdn28rpu.radioplayer.ua/GalaktykaPlus"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/GalaktykaPlus_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/GalaktykaPlus_HD"
+            }
+         }
+      },
+      {
+         "id": 7634,
+         "enabled": true,
+         "sorting_id": 118,
+         "url": "zakhid-fm-plus",
+         "filtering_tags": [
+            "pop",
+            "dance"
+         ],
+         "names": {
+            "uk": "Захід ФМ+",
+            "en": "Zakhid FM+",
+            "ru": "Захід ФМ+",
+            "ro": "Zakhid FM+"
+         },
+         "tags": {
+            "uk": "Радіо, яке качає",
+            "en": " ",
+            "ru": "Радіо, яке качає"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/region/logo_zakhidfm.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_zfm",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_zfm",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/ZFM",
+               "ios": "http://cdn28rpu.radioplayer.ua/ZFM"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/ZFM_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/ZFM_HD",
+               "web": "https://radio.zfm.com.ua:8443/zfm_128"
+            }
+         }
+      },
+      {
+         "id": 7661,
+         "enabled": true,
+         "sorting_id": 119,
+         "url": "radio-respect",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Радіо RESPECT",
+            "en": "Radio RESPECT",
+            "ru": "Радіо RESPECT",
+            "ro": "Radio RESPECT"
+         },
+         "tags": {
+            "uk": "100% позитивної енергії!",
+            "en": " ",
+            "ru": "100% позитивної енергії!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/efir/logo_radiorespect.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_respect",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_respect",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioRespect",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioRespect"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioRespect_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioRespect_HD",
+               "web": ""
+            }
+         }
+      },
+      {
+         "id": 766,
+         "enabled": true,
+         "sorting_id": 201,
+         "url": "guliay-radio",
+         "filtering_tags": [
+            "pop",
+            "dance"
+         ],
+         "names": {
+            "uk": "Гуляй Радіо",
+            "en": "Guliay Radio",
+            "ru": "Гуляй Радіо",
+            "ro": "Guliay Radio"
+         },
+         "tags": {
+            "uk": "Будьмо!",
+            "en": " ",
+            "ru": "Будьмо!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_guliayradio.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24guliay",
+         "current_song": "https://o.tavrmedia.ua/radio3guliay",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radioplayer.ua/GuliayRadio_Live",
+               "ios": "http://online.radioplayer.ua/GuliayRadio_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online.radioplayer.ua/GuliayRadio_HD",
+               "ios": "http://online.radioplayer.ua/GuliayRadio_HD",
+               "android2": "http://online-news.radioplayer.ua/RadioNews",
+               "ios2": "http://online-news.radioplayer.ua/RadioNews",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "web": "https://online.radioplayer.ua/GuliayRadio"
+            }
+         }
+      },
+      {
+         "id": 770,
+         "enabled": true,
+         "sorting_id": 202,
+         "url": "radio-gold",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Radio Gold",
+            "en": "Radio Gold",
+            "ru": "Radio Gold",
+            "ro": "Radio Gold"
+         },
+         "tags": {
+            "uk": "Золоті хіти",
+            "en": "Golden Hits",
+            "ru": "Золоті хіти"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_radiogold.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24gold",
+         "current_song": "https://o.tavrmedia.ua/radio3gold",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radioplayer.ua/RadioGold_Live",
+               "ios": "http://online.radioplayer.ua/RadioGold_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online.radioplayer.ua/RadioGold_HD",
+               "ios": "http://online.radioplayer.ua/RadioGold_HD",
+               "android2": "http://online-news.radioplayer.ua/RadioNews",
+               "ios2": "http://online-news.radioplayer.ua/RadioNews",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "web": "https://online.radioplayer.ua/RadioGold"
+            }
+         }
+      },
+      {
+         "id": 761,
+         "enabled": true,
+         "sorting_id": 203,
+         "url": "flash-radio",
+         "filtering_tags": [
+            "pop",
+            "dance"
+         ],
+         "names": {
+            "uk": "Flash Radio",
+            "en": "Flash Radio",
+            "ru": "Flash Radio",
+            "ro": "Flash Radio"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_flashradio-2022.jpg",
+         "playlist": "https://o.tavrmedia.ua/radio24flash",
+         "current_song": "https://o.tavrmedia.ua/radio3flash",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radioplayer.ua/FlashRadio_Live",
+               "ios": "http://online.radioplayer.ua/FlashRadio_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online.radioplayer.ua/FlashRadio_HD",
+               "ios": "http://online.radioplayer.ua/FlashRadio_HD",
+               "android2": "http://online-news.radioplayer.ua/RadioNews",
+               "ios2": "http://online-news.radioplayer.ua/RadioNews",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "web": "https://online.radioplayer.ua/FlashRadio"
+            }
+         }
+      },
+      {
+         "id": 764,
+         "enabled": true,
+         "sorting_id": 204,
+         "url": "radio-indie-ua",
+         "filtering_tags": [
+            "ukr"
+         ],
+         "names": {
+            "uk": "Радіо Інді.UA",
+            "en": "Radio Indie.UA",
+            "ru": "Радіо Інді.UA",
+            "ro": "Radio Indie.UA"
+         },
+         "tags": {
+            "uk": "Незалежна українська музика",
+            "en": "Independent Ukrainian music",
+            "ru": "Незалежна українська музика"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_radioindieua.png",
+         "playlist": "https://o.tavrmedia.ua/radio24indieua",
+         "current_song": "https://o.tavrmedia.ua/radio3indieua",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radioplayer.ua/RadioIndieUA_Live",
+               "ios": "http://online.radioplayer.ua/RadioIndieUA_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://online.radioplayer.ua/RadioIndieUA_HD",
+               "ios": "http://online.radioplayer.ua/RadioIndieUA_HD",
+               "android2": "http://online-news.radioplayer.ua/RadioNews",
+               "ios2": "http://online-news.radioplayer.ua/RadioNews",
+               "android3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios3": "http://cdn28rpu.radioplayer.ua/UR1",
+               "web": "https://online.radioplayer.ua/RadioIndieUA"
+            }
+         }
+      },
+      {
+         "id": 540,
+         "enabled": false,
+         "sorting_id": 205,
+         "url": "radio-italiana",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Radio Italiana",
+            "en": "Radio Italiana",
+            "ru": "Radio Italiana",
+            "ro": "Radio Italiana"
+         },
+         "tags": {
+            "uk": "Bravo, Bravissimo!",
+            "en": "Bravo, Bravissimo!",
+            "ru": "Bravo, Bravissimo!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_radioitaliana.jpg",
+         "playlist": "",
+         "current_song": "",
+         "pplaylist": "https://o.tavrmedia.ua/radio24italiano",
+         "ccurrent_song": "https://o.tavrmedia.ua/radio3italiano",
+         "streams": {
+            "regular": {
+               "android": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "android3": "http://online.radioplayer.ua/RadioItaliana_Live",
+               "ios3": "http://online.radioplayer.ua/RadioItaliana_Live"
+            },
+            "hd": {
+               "android": "http://online-news.radioplayer.ua/RadioNews_Live",
+               "ios": "http://online-news.radioplayer.ua/RadioNews_Live",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "android3": "http://online.radioplayer.ua/RadioItaliana_HD",
+               "ios3": "http://online.radioplayer.ua/RadioItaliana_HD",
+               "web": "https://online.radioplayer.ua/RadioItaliana"
+            }
+         }
+      },
+      {
+         "id": 5401,
+         "enabled": false,
+         "sorting_id": 206,
+         "url": "radio-ritmo-latino",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Radio Ritmo Latino",
+            "en": "Radio Ritmo Latino",
+            "ru": "Radio Ritmo Latino",
+            "ro": "Radio Ritmo Latino"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_radioritmolatino.jpg",
+         "playlist": "",
+         "current_song": "",
+         "pplaylist": "https://o.tavrmedia.ua/radio24ritmo_latino",
+         "ccurrent_song": "https://o.tavrmedia.ua/radio3ritmo_latino",
+         "streams": {
+            "regular": {
+               "android": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "android3": "http://online.radioplayer.ua/RadioRitmoLatino_Live",
+               "ios3": "http://online.radioplayer.ua/RadioRitmoLatino_Live"
+            },
+            "hd": {
+               "android": "http://online-news.radioplayer.ua/RadioNews_Live",
+               "ios": "http://online-news.radioplayer.ua/RadioNews_Live",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "android3": "http://online.radioplayer.ua/RadioRitmoLatino_HD",
+               "ios3": "http://online.radioplayer.ua/RadioRitmoLatino_HD",
+               "web": "https://online.radioplayer.ua/RadioRitmoLatino"
+            }
+         }
+      },
+      {
+         "id": 7668,
+         "enabled": true,
+         "sorting_id": 207,
+         "url": "radiotochka",
+         "filtering_tags": [
+            "pop",
+            "ukr"
+         ],
+         "names": {
+            "uk": "Радіоточка",
+            "en": "Radiotochka",
+            "ru": "Радіоточка",
+            "ro": "Radiotochka"
+         },
+         "tags": {
+            "uk": "Культові пісні твого покоління",
+            "en": " ",
+            "ru": "Культові пісні твого покоління"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_suspilne5.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_radiotochka",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_radiotochka",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/UR5",
+               "ios": "http://cdn28rpu.radioplayer.ua/UR5"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/UR5_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/UR5_HD"
+            }
+         }
+      },
+      {
+         "id": 7662,
+         "enabled": true,
+         "sorting_id": 208,
+         "url": "radio-kordon",
+         "filtering_tags": [
+            "pop",
+            "rock"
+         ],
+         "names": {
+            "uk": "Радіо Кордон",
+            "en": "Radio Kordon",
+            "ru": "Радіо Kordon",
+            "ro": "Radio Kordon"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_radio-kordon.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_kordon",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_kordon",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/Kordon",
+               "ios": "http://cdn28rpu.radioplayer.ua/Kordon",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/Kordon_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/Kordon_HD",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            }
+         }
+      },
+      {
+         "id": 5403,
+         "enabled": true,
+         "sorting_id": 209,
+         "url": "radio-arystokraty",
+         "filtering_tags": [
+            "pop",
+            "jazz",
+            "rock"
+         ],
+         "names": {
+            "uk": "Радіо Аристократи",
+            "en": "Radio Arystokraty",
+            "ru": "Радіо Аристократи",
+            "ro": "Radio Arystokraty"
+         },
+         "tags": {
+            "uk": "Запалення світлого розуму!",
+            "en": " ",
+            "ru": "Запалення світлого розуму!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_aristocrats.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioArystokraty",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioArystokraty"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioArystokraty_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioArystokraty_HD",
+               "web": "https://stream.radioplayer.ua/RadioArystokraty"
+            }
+         }
+      },
+      {
+         "id": 5402,
+         "enabled": true,
+         "sorting_id": 210,
+         "url": "radio-skovoroda",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Radio SKOVORODA",
+            "en": "Radio SKOVORODA",
+            "ru": "Radio SKOVORODA",
+            "ro": "Radio SKOVORODA"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_radioskovoroda.png",
+         "playlist": "https://o.tavrmedia.ua/radio24rp_radioskovoroda",
+         "current_song": "https://o.tavrmedia.ua/radio3rp_radioskovoroda",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioSkovoroda",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioSkovoroda"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/RadioSkovoroda_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/RadioSkovoroda_HD",
+               "web": "https://stream.radioplayer.ua/RadioSkovoroda"
+            }
+         }
+      },
+      {
+         "id": 7655,
+         "enabled": true,
+         "sorting_id": 211,
+         "url": "",
+         "filtering_tags": [
+            "pop",
+            "rock"
+         ],
+         "names": {
+            "uk": "Ми з України",
+            "en": "My z Ukrainy",
+            "ru": "Ми з України",
+            "ro": "My z Ukrainy"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_radiomzu.jpg",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://cdn28rpu.radioplayer.ua/MZU",
+               "ios": "http://cdn28rpu.radioplayer.ua/MZU",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            },
+            "hd": {
+               "android": "http://cdn28rpu.radioplayer.ua/MZU_HD",
+               "ios": "http://cdn28rpu.radioplayer.ua/MZU_HD",
+               "android2": "http://cdn28rpu.radioplayer.ua/UR1",
+               "ios2": "http://cdn28rpu.radioplayer.ua/UR1"
+            }
+         }
+      },
+      {
+         "id": 54010000,
+         "enabled": true,
+         "sorting_id": 212,
+         "url": "radio-news",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Новини",
+            "en": "News",
+            "ru": "Новини",
+            "ro": "News"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/news/arc/logo_news.png",
+         "playlist": "",
+         "current_song": "",
+         "streams": {
+            "regular": {
+               "android": "http://online-news.radioplayer.ua/RadioNews_Live",
+               "ios": "http://online.nasheradio.ua/NasheRadio_Top_Live"
+            },
+            "hd": {
+               "android": "http://online-news.radioplayer.ua/RadioNews_Live",
+               "ios": "http://online.nasheradio.ua/NasheRadio_Top_HD"
+            }
+         }
+      },
+      {
+         "id": 102,
+         "enabled": true,
+         "sorting_id": 301,
+         "url": "hit-fm-ukr-hity",
+         "filtering_tags": [
+            "pop",
+            "ukr"
+         ],
+         "names": {
+            "uk": "Хіт FM Українські хіти",
+            "en": "Hit FM Ukrainian Hits",
+            "ru": "Хіт FM Українські хіти",
+            "ro": "Hit FM Ukrainian Hits"
+         },
+         "tags": {
+            "uk": "Тільки українські хіти!",
+            "en": "Only Ukrainian hits!",
+            "ru": "Тільки українські хіти!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/hitfm/logo_hitfm_ukr.png",
+         "playlist": "https://o.tavrmedia.ua/hit24ukr",
+         "current_song": "https://o.tavrmedia.ua/hitu",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.hitfm.ua/HitFM_Ukr_Live",
+               "ios": "http://online.hitfm.ua/HitFM_Ukr_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.hitfm.ua/HitFM_Ukr_HD",
+               "ios": "http://online.hitfm.ua/HitFM_Ukr_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.hitfm.ua/HitFM_Ukr"
+            }
+         }
+      },
+      {
+         "id": 103,
+         "enabled": true,
+         "sorting_id": 302,
+         "url": "hit-fm-naybilshi-hity",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Хіт FM Найбільші хіти",
+            "en": "Hit FM Best Hits",
+            "ru": "Хіт FM Найбільші хіти",
+            "ro": "Hit FM Best Hits"
+         },
+         "tags": {
+            "uk": "Тільки найбільші хіти!",
+            "en": "Only Best Hits!",
+            "ru": "Тільки найбільші хіти!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/hitfm/logo_hitfm_best.png",
+         "playlist": "https://o.tavrmedia.ua/hit24best",
+         "current_song": "https://o.tavrmedia.ua/hitb",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.hitfm.ua/HitFM_Best_Live",
+               "ios": "http://online.hitfm.ua/HitFM_Best_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.hitfm.ua/HitFM_Best_HD",
+               "ios": "http://online.hitfm.ua/HitFM_Best_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.hitfm.ua/HitFM_Best"
+            }
+         }
+      },
+      {
+         "id": 104,
+         "enabled": true,
+         "sorting_id": 303,
+         "url": "hit-fm-suchasni-hity",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Хіт FM Сучасні хіти",
+            "en": "Hit FM Top Hits",
+            "ru": "Хіт FM Сучасні хіти",
+            "ro": "Hit FM Top Hits"
+         },
+         "tags": {
+            "uk": "Тільки сучасні хіти!",
+            "en": "Only Top Hits!",
+            "ru": "Тільки сучасні хіти!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/hitfm/logo_hitfm_top.png",
+         "playlist": "https://o.tavrmedia.ua/hit24top",
+         "current_song": "https://o.tavrmedia.ua/hitt",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.hitfm.ua/HitFM_Top_Live",
+               "ios": "http://online.hitfm.ua/HitFM_Top_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.hitfm.ua/HitFM_Top_HD",
+               "ios": "http://online.hitfm.ua/HitFM_Top_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.hitfm.ua/HitFM_Top"
+            }
+         }
+      },
+      {
+         "id": 202,
+         "enabled": true,
+         "sorting_id": 304,
+         "url": "radio-roks-ukr-rock",
+         "filtering_tags": [
+            "rock",
+            "ukr"
+         ],
+         "names": {
+            "uk": "Radio ROKS Український рок",
+            "en": "Radio ROKS Ukrainian Rock",
+            "ru": "Radio ROKS Український рок",
+            "ro": "Radio ROKS Ukrainian Rock"
+         },
+         "tags": {
+            "uk": "Тільки український рок!",
+            "en": "Only Ukrainian Rock!",
+            "ru": "Тільки український рок!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radioroks/logo_radioroks_ukr.png",
+         "playlist": "https://o.tavrmedia.ua/roks24ukr",
+         "current_song": "https://o.tavrmedia.ua/roksukr",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radioroks.ua/RadioROKS_Ukr_Live",
+               "ios": "http://online.radioroks.ua/RadioROKS_Ukr_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radioroks.ua/RadioROKS_Ukr_HD",
+               "ios": "http://online.radioroks.ua/RadioROKS_Ukr_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radioroks.ua/RadioROKS_Ukr"
+            }
+         }
+      },
+      {
+         "id": 203,
+         "enabled": true,
+         "sorting_id": 305,
+         "url": "radio-roks-new-rock",
+         "filtering_tags": [
+            "rock"
+         ],
+         "names": {
+            "uk": "Radio ROKS Новий рок",
+            "en": "Radio ROKS New Rock",
+            "ru": "Radio ROKS Новий рок",
+            "ro": "Radio ROKS New Rock"
+         },
+         "tags": {
+            "uk": "Тільки новий рок!",
+            "en": "Only New Rock!",
+            "ru": "Тільки новий рок!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radioroks/logo_radioroks_newrock.png",
+         "playlist": "https://o.tavrmedia.ua/roks24new",
+         "current_song": "https://o.tavrmedia.ua/roksnew",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radioroks.ua/RadioROKS_NewRock_Live",
+               "ios": "http://online.radioroks.ua/RadioROKS_NewRock_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radioroks.ua/RadioROKS_NewRock_HD",
+               "ios": "http://online.radioroks.ua/RadioROKS_NewRock_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radioroks.ua/RadioROKS_NewRock"
+            }
+         }
+      },
+      {
+         "id": 206,
+         "enabled": true,
+         "sorting_id": 306,
+         "url": "radio-roks-classic-rock",
+         "filtering_tags": [
+            "rock"
+         ],
+         "names": {
+            "uk": "Radio ROKS Classic Rock",
+            "en": "Radio ROKS Classic Rock",
+            "ru": "Radio ROKS Classic Rock",
+            "ro": "Radio ROKS Classic Rock"
+         },
+         "tags": {
+            "uk": "Тільки класичний рок!",
+            "en": "Only Classic Rock!",
+            "ru": "Тільки класичний рок!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radioroks/logo_radioroks_classicrock.png",
+         "playlist": "https://o.tavrmedia.ua/roks24classic",
+         "current_song": "https://o.tavrmedia.ua/rokscla",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radioroks.ua/RadioROKS_ClassicRock_Live",
+               "ios": "http://online.radioroks.ua/RadioROKS_ClassicRock_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radioroks.ua/RadioROKS_ClassicRock_HD",
+               "ios": "http://online.radioroks.ua/RadioROKS_ClassicRock_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radioroks.ua/RadioROKS_ClassicRock"
+            }
+         }
+      },
+      {
+         "id": 204,
+         "enabled": true,
+         "sorting_id": 307,
+         "url": "radio-roks-hard-n-heavy",
+         "filtering_tags": [
+            "rock"
+         ],
+         "names": {
+            "uk": "Radio ROKS Hard'n'Heavy",
+            "en": "Radio ROKS Hard'n'Heavy",
+            "ru": "Radio ROKS Hard'n'Heavy",
+            "ro": "Radio ROKS Hard'n'Heavy"
+         },
+         "tags": {
+            "uk": "Тільки Hard'n'Heavy!",
+            "en": "Only Hard'n'Heavy!",
+            "ru": "Тільки Hard'n'Heavy!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radioroks/logo_radioroks_hardnheavy.png",
+         "playlist": "https://o.tavrmedia.ua/roks24hard",
+         "current_song": "https://o.tavrmedia.ua/rokshar",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radioroks.ua/RadioROKS_HardnHeavy_Live",
+               "ios": "http://online.radioroks.ua/RadioROKS_HardnHeavy_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radioroks.ua/RadioROKS_HardnHeavy_HD",
+               "ios": "http://online.radioroks.ua/RadioROKS_HardnHeavy_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radioroks.ua/RadioROKS_HardnHeavy"
+            }
+         }
+      },
+      {
+         "id": 205,
+         "enabled": true,
+         "sorting_id": 308,
+         "url": "radio-roks-rock-ballads",
+         "filtering_tags": [
+            "rock",
+            "relax"
+         ],
+         "names": {
+            "uk": "Radio ROKS Рок-Балади",
+            "en": "Radio ROKS Rock-Ballads",
+            "ru": "Radio ROKS Рок-Балади",
+            "ro": "Radio ROKS Rock-Ballads"
+         },
+         "tags": {
+            "uk": "Тільки рок-балади!",
+            "en": "Only Rock-Ballads!",
+            "ru": "Тільки рок-балади!"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radioroks/logo_radioroks_ballads.png",
+         "playlist": "https://o.tavrmedia.ua/roks24ballads",
+         "current_song": "https://o.tavrmedia.ua/roksbal",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radioroks.ua/RadioROKS_Ballads_Live",
+               "ios": "http://online.radioroks.ua/RadioROKS_Ballads_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radioroks.ua/RadioROKS_Ballads_HD",
+               "ios": "http://online.radioroks.ua/RadioROKS_Ballads_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radioroks.ua/RadioROKS_Ballads"
+            }
+         }
+      },
+      {
+         "id": 307,
+         "enabled": true,
+         "sorting_id": 309,
+         "url": "kiss-fm-ukrainian",
+         "filtering_tags": [
+            "dance",
+            "pop",
+            "ukr"
+         ],
+         "names": {
+            "uk": "Kiss FM Ukrainian",
+            "en": "Kiss FM Ukrainian",
+            "ru": "Kiss FM Ukrainian",
+            "ro": "Kiss FM Ukrainian"
+         },
+         "tags": {
+            "uk": "Найкраща українська танцювальна музика",
+            "en": "Best Ukrainian Dance Music",
+            "ru": "Найкраща українська танцювальна музика"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/kissfm/logo_kissfm_ukr.png",
+         "playlist": "https://o.tavrmedia.ua/kiss24ukr",
+         "current_song": "https://o.tavrmedia.ua/kissukr",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.kissfm.ua/KissFM_Ukr_Live",
+               "ios": "http://online.kissfm.ua/KissFM_Ukr_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.kissfm.ua/KissFM_Ukr_HD",
+               "ios": "http://online.kissfm.ua/KissFM_Ukr_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.kissfm.ua/KissFM_Ukr"
+            }
+         }
+      },
+      {
+         "id": 303,
+         "enabled": true,
+         "sorting_id": 310,
+         "url": "kiss-fm-deep",
+         "filtering_tags": [
+            "dance",
+            "pop"
+         ],
+         "names": {
+            "uk": "Kiss FM Deep",
+            "en": "Kiss FM Deep",
+            "ru": "Kiss FM Deep",
+            "ro": "Kiss FM Deep"
+         },
+         "tags": {
+            "uk": "Best Deep House Music",
+            "en": "Best Deep House Music",
+            "ru": "Best Deep House Music"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/kissfm/logo_kissfm_deep.png",
+         "playlist": "https://o.tavrmedia.ua/kiss24deep",
+         "current_song": "https://o.tavrmedia.ua/kissdeep",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.kissfm.ua/KissFM_Deep_Live",
+               "ios": "http://online.kissfm.ua/KissFM_Deep_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.kissfm.ua/KissFM_Deep_HD",
+               "ios": "http://online.kissfm.ua/KissFM_Deep_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.kissfm.ua/KissFM_Deep"
+            }
+         }
+      },
+      {
+         "id": 308,
+         "enabled": true,
+         "sorting_id": 311,
+         "url": "kiss-fm-digital",
+         "filtering_tags": [
+            "dance",
+            "pop"
+         ],
+         "names": {
+            "uk": "Kiss FM Digital",
+            "en": "Kiss FM Digital",
+            "ru": "Kiss FM Digital",
+            "ro": "Kiss FM Digital"
+         },
+         "tags": {
+            "uk": "Best Dance and House Music",
+            "en": "Best Dance and House Music",
+            "ru": "Best Dance and House Music"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/kissfm/logo_kissfm_digital.png",
+         "playlist": "https://o.tavrmedia.ua/kiss24digital",
+         "current_song": "https://o.tavrmedia.ua/kissdigital",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.kissfm.ua/KissFM_Digital_Live",
+               "ios": "http://online.kissfm.ua/KissFM_Digital_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.kissfm.ua/KissFM_Digital_HD",
+               "ios": "http://online.kissfm.ua/KissFM_Digital_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.kissfm.ua/KissFM_Digital"
+            }
+         }
+      },
+      {
+         "id": 304,
+         "enabled": false,
+         "sorting_id": 312,
+         "url": "kiss-fm-black",
+         "filtering_tags": [
+            "dance"
+         ],
+         "names": {
+            "uk": "Kiss FM Black",
+            "en": "Kiss FM Black",
+            "ru": "Kiss FM Black",
+            "ro": "Kiss FM Black"
+         },
+         "tags": {
+            "uk": "Best Hip Hop, Afro, Trap",
+            "en": "Best Hip Hop, Afro, Trap",
+            "ru": "Best Hip Hop, Afro, Trap"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_kissfm-black.png",
+         "playlist": "",
+         "current_song": "",
+         "pplaylist": "https://o.tavrmedia.ua/kiss24black",
+         "ccurrent_song": "https://o.tavrmedia.ua/kissblack",
+         "streams": {
+            "regular": {
+               "android": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "aandroid": "http://online.kissfm.ua/KissFM_Black_Live",
+               "iios": "http://online.kissfm.ua/KissFM_Black_Live"
+            },
+            "hd": {
+               "android": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "aandroid": "http://online.kissfm.ua/KissFM_Black_HD",
+               "iios": "http://online.kissfm.ua/KissFM_Black_HD",
+               "web": "https://online.kissfm.ua/KissFM_Black"
+            }
+         }
+      },
+      {
+         "id": 306,
+         "enabled": false,
+         "sorting_id": 313,
+         "url": "kiss-fm-trendz",
+         "filtering_tags": [
+            "dance",
+            "pop"
+         ],
+         "names": {
+            "uk": "Kiss FM Trendz",
+            "en": "Kiss FM Trendz",
+            "ru": "Kiss FM Trendz",
+            "ro": "Kiss FM Trendz"
+         },
+         "tags": {
+            "uk": "Best Trendy Music",
+            "en": "Best Trendy Music",
+            "ru": "Best Trendy Music"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_kissfm-trendz.png",
+         "playlist": "",
+         "current_song": "",
+         "pplaylist": "https://o.tavrmedia.ua/kiss24trendz",
+         "ccurrent_song": "https://o.tavrmedia.ua/kisstrendz",
+         "streams": {
+            "regular": {
+               "android": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "aandroid": "http://online.kissfm.ua/KissFM_Trendz_Live",
+               "iios": "http://online.kissfm.ua/KissFM_Trendz_Live"
+            },
+            "hd": {
+               "android": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "aandroid": "http://online.kissfm.ua/KissFM_Trendz_HD",
+               "iios": "http://online.kissfm.ua/KissFM_Trendz_HD",
+               "web": "https://online.kissfm.ua/KissFM_Trendz"
+            }
+         }
+      },
+      {
+         "id": 309,
+         "enabled": false,
+         "sorting_id": 314,
+         "url": "kiss-fm-top-100",
+         "filtering_tags": [
+            "dance",
+            "pop"
+         ],
+         "names": {
+            "uk": "Kiss FM TOP 100",
+            "en": "Kiss FM TOP 100",
+            "ru": "Kiss FM TOP 100",
+            "ro": "Kiss FM TOP 100"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_kissfm-top.jpg",
+         "playlist": "",
+         "current_song": "",
+         "pplaylist": "https://o.tavrmedia.ua/kiss24top100",
+         "ccurrent_song": "https://o.tavrmedia.ua/kisstop100",
+         "streams": {
+            "regular": {
+               "android": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "aandroid": "http://online.kissfm.ua/KissFM_Top_Live",
+               "iios": "http://online.kissfm.ua/KissFM_Top_Live"
+            },
+            "hd": {
+               "android": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "aandroid": "http://online.kissfm.ua/KissFM_Top_HD",
+               "iios": "http://online.kissfm.ua/KissFM_Top_HD",
+               "web": "https://online.kissfm.ua/KissFM_Top"
+            }
+         }
+      },
+      {
+         "id": 402,
+         "enabled": false,
+         "sorting_id": 315,
+         "url": "radio-relax-christmas",
+         "filtering_tags": [
+            "xmas",
+            "relax"
+         ],
+         "names": {
+            "uk": "Radio Relax Christmas",
+            "en": "Radio Relax Christmas",
+            "ru": "Radio Relax Christmas",
+            "ro": "Radio Relax Christmas"
+         },
+         "tags": {
+            "uk": "Легка та спокійна музика зимових свят",
+            "en": "Best Christmas And New Year Music",
+            "ru": "Легка та спокійна музика зимових свят"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radiorelax/logo_radiorelax_christmas.png",
+         "playlist": "https://o.tavrmedia.ua/relax24christmas",
+         "current_song": "https://o.tavrmedia.ua/relaxchristmas",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiorelax.ua/RadioRelax_Christmas_Live",
+               "ios": "http://online.radiorelax.ua/RadioRelax_Christmas_Live"
+            },
+            "hd": {
+               "android": "http://online.radiorelax.ua/RadioRelax_Christmas_HD",
+               "ios": "http://online.radiorelax.ua/RadioRelax_Christmas_HD",
+               "web": "https://online.radiorelax.ua/RadioRelax_Christmas"
+            }
+         }
+      },
+      {
+         "id": 406,
+         "enabled": true,
+         "sorting_id": 316,
+         "url": "radio-relax-ukr",
+         "filtering_tags": [
+            "relax",
+            "ukr"
+         ],
+         "names": {
+            "uk": "Radio Relax Українською",
+            "en": "Radio Relax Ukrainian",
+            "ru": "Radio Relax Українською",
+            "ro": "Radio Relax Ukrainian"
+         },
+         "tags": {
+            "uk": "Спокій рідною мовою",
+            "en": "Best Ukrainian Relax Music",
+            "ru": "Спокій рідною мовою"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radiorelax/logo_radiorelax_ukr.jpg",
+         "playlist": "https://o.tavrmedia.ua/relax24ukr",
+         "current_song": "https://o.tavrmedia.ua/relaxukr",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiorelax.ua/RadioRelax_Ukr_Live",
+               "ios": "http://online.radiorelax.ua/RadioRelax_Ukr_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radiorelax.ua/RadioRelax_Ukr_HD",
+               "ios": "http://online.radiorelax.ua/RadioRelax_Ukr_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radiorelax.ua/RadioRelax_Ukr"
+            }
+         }
+      },
+      {
+         "id": 403,
+         "enabled": true,
+         "sorting_id": 317,
+         "url": "radio-relax-international",
+         "filtering_tags": [
+            "relax"
+         ],
+         "names": {
+            "uk": "Radio Relax International",
+            "en": "Radio Relax International",
+            "ru": "Radio Relax International",
+            "ro": "Radio Relax International"
+         },
+         "tags": {
+            "uk": "Легка та спокійна музика з усього світу",
+            "en": "Best International Relax Music",
+            "ru": "Легка та спокійна музика з усього світу"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radiorelax/logo_radiorelax_int.png",
+         "playlist": "https://o.tavrmedia.ua/relax24int",
+         "current_song": "https://o.tavrmedia.ua/relaxint",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiorelax.ua/RadioRelax_Int_Live",
+               "ios": "http://online.radiorelax.ua/RadioRelax_Int_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radiorelax.ua/RadioRelax_Int_HD",
+               "ios": "http://online.radiorelax.ua/RadioRelax_Int_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radiorelax.ua/RadioRelax_Int"
+            }
+         }
+      },
+      {
+         "id": 405,
+         "enabled": true,
+         "sorting_id": 318,
+         "url": "radio-relax-cafe",
+         "filtering_tags": [
+            "relax"
+         ],
+         "names": {
+            "uk": "Radio Relax Cafe",
+            "en": "Radio Relax Cafe",
+            "ru": "Radio Relax Cafe",
+            "ro": "Radio Relax Cafe"
+         },
+         "tags": {
+            "uk": "Легка та спокійна lounge-музика",
+            "en": "Best Lounge Music",
+            "ru": "Легка та спокійна lounge-музика"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radiorelax/logo_radiorelax_cafe.png",
+         "playlist": "https://o.tavrmedia.ua/relax24cafe",
+         "current_song": "https://o.tavrmedia.ua/relaxcafe",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiorelax.ua/RadioRelax_Cafe_Live",
+               "ios": "http://online.radiorelax.ua/RadioRelax_Cafe_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radiorelax.ua/RadioRelax_Cafe_HD",
+               "ios": "http://online.radiorelax.ua/RadioRelax_Cafe_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radiorelax.ua/RadioRelax_Cafe"
+            }
+         }
+      },
+      {
+         "id": 404,
+         "enabled": true,
+         "sorting_id": 319,
+         "url": "radio-relax-instrumental",
+         "filtering_tags": [
+            "relax"
+         ],
+         "names": {
+            "uk": "Radio Relax Instrumental",
+            "en": "Radio Relax Instrumental",
+            "ru": "Radio Relax Instrumental",
+            "ro": "Radio Relax Instrumental"
+         },
+         "tags": {
+            "uk": "Легка та спокійна музика без слів",
+            "en": "Best Instrumental Music",
+            "ru": "Легка та спокійна музика без слів"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radiorelax/logo_radiorelax_instrumental.png",
+         "playlist": "https://o.tavrmedia.ua/relax24instrumental",
+         "current_song": "https://o.tavrmedia.ua/relaxinstrumental",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiorelax.ua/RadioRelax_Instrumental_Live",
+               "ios": "http://online.radiorelax.ua/RadioRelax_Instrumental_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radiorelax.ua/RadioRelax_Instrumental_HD",
+               "ios": "http://online.radiorelax.ua/RadioRelax_Instrumental_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radiorelax.ua/RadioRelax_Instrumental"
+            }
+         }
+      },
+      {
+         "id": 510,
+         "enabled": true,
+         "sorting_id": 320,
+         "url": "melodia-fm-international",
+         "filtering_tags": [
+            "pop"
+         ],
+         "names": {
+            "uk": "Мелодія FM International",
+            "en": "Melodia FM International",
+            "ru": "Мелодія FM International",
+            "ro": "Melodia FM International"
+         },
+         "tags": {
+            "uk": "Найкращі світові хіти",
+            "en": "Best World Hits!",
+            "ru": "Найкращі світові хіти"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/melodiafm/logo_melodiafm_int.png",
+         "playlist": "https://o.tavrmedia.ua/melodia24international",
+         "current_song": "https://o.tavrmedia.ua/melodiaint",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.melodiafm.ua/MelodiaFM_Int_Live",
+               "ios": "http://online.melodiafm.ua/MelodiaFM_Int_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.melodiafm.ua/MelodiaFM_Int_HD",
+               "ios": "http://online.melodiafm.ua/MelodiaFM_Int_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.melodiafm.ua/MelodiaFM_Int"
+            }
+         }
+      },
+      {
+         "id": 520,
+         "enabled": true,
+         "sorting_id": 321,
+         "url": "melodia-fm-disco",
+         "filtering_tags": [
+            "dance",
+            "pop"
+         ],
+         "names": {
+            "uk": "Мелодія FM Disco",
+            "en": "Melodia FM Disco",
+            "ru": "Мелодія FM Disco",
+            "ro": "Melodia FM Disco"
+         },
+         "tags": {
+            "uk": "Найкращі танцювальні хіти",
+            "en": "Best Disco Songs",
+            "ru": "Найкращі танцювальні хіти"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/melodiafm/logo_melodiafm_disco.png",
+         "playlist": "https://o.tavrmedia.ua/melodia24disco",
+         "current_song": "https://o.tavrmedia.ua/melodiad",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.melodiafm.ua/MelodiaFM_Disco_Live",
+               "ios": "http://online.melodiafm.ua/MelodiaFM_Disco_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.melodiafm.ua/MelodiaFM_Disco_HD",
+               "ios": "http://online.melodiafm.ua/MelodiaFM_Disco_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.melodiafm.ua/MelodiaFM_Disco"
+            }
+         }
+      },
+      {
+         "id": 530,
+         "enabled": true,
+         "sorting_id": 322,
+         "url": "melodia-fm-romantic",
+         "filtering_tags": [
+            "pop",
+            "relax"
+         ],
+         "names": {
+            "uk": "Мелодія FM Romantic",
+            "en": "Melodia FM Romantic",
+            "ru": "Мелодія FM Romantic",
+            "ro": "Melodia FM Romantic"
+         },
+         "tags": {
+            "uk": "Найкращі романтичні хіти",
+            "en": "Best Romantic Hits",
+            "ru": "Найкращі романтичні хіти"
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/melodiafm/logo_melodiafm_romantic.png",
+         "playlist": "https://o.tavrmedia.ua/melodia24romantic",
+         "current_song": "https://o.tavrmedia.ua/melodiar",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.melodiafm.ua/MelodiaFM_Romantic_Live",
+               "ios": "http://online.melodiafm.ua/MelodiaFM_Romantic_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.melodiafm.ua/MelodiaFM_Romantic_HD",
+               "ios": "http://online.melodiafm.ua/MelodiaFM_Romantic_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.melodiafm.ua/MelodiaFM_Romantic"
+            }
+         }
+      },
+      {
+         "id": 742,
+         "enabled": true,
+         "sorting_id": 323,
+         "url": "nashe-radio-ukrtop100",
+         "filtering_tags": [
+            "ukr",
+            "pop"
+         ],
+         "names": {
+            "uk": "Наше Радіо УкрТоп100",
+            "en": "Nashe Radio UkrTop100",
+            "ru": "Наше Радіо УкрТоп100",
+            "ro": "Nashe Radio UkrTop100"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_nasheradio-ukr.png",
+         "playlist": "https://o.tavrmedia.ua/nasheradio24ukr",
+         "current_song": "https://o.tavrmedia.ua/nasheradio3ukr",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.nasheradio.ua/NasheRadio_Ukr_Live",
+               "ios": "http://online.nasheradio.ua/NasheRadio_Ukr_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.nasheradio.ua/NasheRadio_Ukr_HD",
+               "ios": "http://online.nasheradio.ua/NasheRadio_Ukr_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.nasheradio.ua/NasheRadio_Ukr"
+            }
+         }
+      },
+      {
+         "id": 715,
+         "enabled": false,
+         "sorting_id": 324,
+         "url": "radio-jazz-christmas",
+         "filtering_tags": [
+            "jazz",
+            "xmas"
+         ],
+         "names": {
+            "uk": "Radio Jazz Christmas",
+            "en": "Radio Jazz Christmas",
+            "ru": "Radio Jazz Christmas",
+            "ro": "Radio Jazz Christmas"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radiojazz/logo_radiojazz_christmas_2020.png",
+         "playlist": "https://o.tavrmedia.ua/jazz24christmas",
+         "current_song": "https://o.tavrmedia.ua/jazz3christmas",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Christmas_Live",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Christmas_Live"
+            },
+            "hd": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Christmas_HD",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Christmas_HD",
+               "web": "https://online.radiojazz.ua/RadioJazz_Christmas"
+            }
+         }
+      },
+      {
+         "id": 712,
+         "enabled": true,
+         "sorting_id": 325,
+         "url": "radio-jazz-ukr",
+         "filtering_tags": [
+            "jazz",
+            "ukr"
+         ],
+         "names": {
+            "uk": "Radio Jazz FromUA",
+            "en": "Radio Jazz FromUA",
+            "ru": "Radio Jazz FromUA",
+            "ro": "Radio Jazz FromUA"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radiojazz/logo_radiojazz_ukr.jpg",
+         "playlist": "https://o.tavrmedia.ua/jazz24ukr",
+         "current_song": "https://o.tavrmedia.ua/jazz3ukr",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Ukr_Live",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Ukr_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Ukr_HD",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Ukr_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radiojazz.ua/RadioJazz_Ukr"
+            }
+         }
+      },
+      {
+         "id": 720,
+         "enabled": true,
+         "sorting_id": 326,
+         "url": "radio-jazz-gold",
+         "filtering_tags": [
+            "jazz"
+         ],
+         "names": {
+            "uk": "Radio Jazz Gold",
+            "en": "Radio Jazz Gold",
+            "ru": "Radio Jazz Gold",
+            "ro": "Radio Jazz Gold"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radiojazz/logo_radiojazz_gold.png",
+         "playlist": "https://o.tavrmedia.ua/jazz24gold",
+         "current_song": "https://o.tavrmedia.ua/jazz3gold",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Gold_Live",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Gold_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Gold_HD",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Gold_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radiojazz.ua/RadioJazz_Gold"
+            }
+         }
+      },
+      {
+         "id": 730,
+         "enabled": false,
+         "sorting_id": 327,
+         "url": "radio-jazz-latin",
+         "filtering_tags": [
+            "jazz"
+         ],
+         "names": {
+            "uk": "Radio Jazz Latin",
+            "en": "Radio Jazz Latin",
+            "ru": "Radio Jazz Latin",
+            "ro": "Radio Jazz Latin"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radiojazz/logo_radiojazz_latin.png",
+         "playlist": "https://o.tavrmedia.ua/jazz24latin",
+         "current_song": "https://o.tavrmedia.ua/jazz3latin",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Latin_Live",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Latin_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Latin_HD",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Latin_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radiojazz.ua/RadioJazz_Latin"
+            }
+         }
+      },
+      {
+         "id": 740,
+         "enabled": true,
+         "sorting_id": 328,
+         "url": "radio-jazz-light",
+         "filtering_tags": [
+            "jazz",
+            "relax"
+         ],
+         "names": {
+            "uk": "Radio Jazz Light",
+            "en": "Radio Jazz Light",
+            "ru": "Radio Jazz Light",
+            "ro": "Radio Jazz Light"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radiojazz/logo_radiojazz_light.png",
+         "playlist": "https://o.tavrmedia.ua/jazz24light",
+         "current_song": "https://o.tavrmedia.ua/jazz3light",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Light_Live",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Light_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Light_HD",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Light_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radiojazz.ua/RadioJazz_Light"
+            }
+         }
+      },
+      {
+         "id": 741,
+         "enabled": true,
+         "sorting_id": 329,
+         "url": "radio-jazz-cover",
+         "filtering_tags": [
+            "jazz",
+            "pop"
+         ],
+         "names": {
+            "uk": "Radio Jazz Cover",
+            "en": "Radio Jazz Cover",
+            "ru": "Radio Jazz Cover",
+            "ro": "Radio Jazz Cover"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/radiojazz/logo_radiojazz_cover.png",
+         "playlist": "https://o.tavrmedia.ua/jazz24cover",
+         "current_song": "https://o.tavrmedia.ua/jazz3cover",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Cover_Live",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Cover_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Cover_HD",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Cover_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radiojazz.ua/RadioJazz_Cover"
+            }
+         }
+      },
+      {
+         "id": 743,
+         "enabled": true,
+         "sorting_id": 330,
+         "url": "radio-jazz-groove",
+         "filtering_tags": [
+            "jazz",
+            "pop"
+         ],
+         "names": {
+            "uk": "Radio Jazz Groove",
+            "en": "Radio Jazz Groove",
+            "ru": "Radio Jazz Groove",
+            "ro": "Radio Jazz Groove"
+         },
+         "tags": {
+            "uk": " ",
+            "en": " ",
+            "ru": " "
+         },
+         "logo": "https://static.radioplayer.ua/radioplayer/logo/online/logo_radiojazz-groove.png",
+         "playlist": "https://o.tavrmedia.ua/jazz24groove",
+         "current_song": "https://o.tavrmedia.ua/jazz3groove",
+         "playlist2": "",
+         "current_song2": "",
+         "streams": {
+            "regular": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Groove_Live",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Groove_Live",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live"
+            },
+            "hd": {
+               "android": "http://online.radiojazz.ua/RadioJazz_Groove_HD",
+               "ios": "http://online.radiojazz.ua/RadioJazz_Groove_HD",
+               "android2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "ios2": "http://online-news-app.radioplayer.ua/RadioNews_Live",
+               "web": "https://online.radiojazz.ua/RadioJazz_Groove"
+            }
+         }
+      }
+   ]
+}
