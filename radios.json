@@ -26,7 +26,7 @@
   {
     "name": "90s90s Dance",
     "category": "Eurodance - Music",
-    "url": "http://90s90s.hoerradar.de/90s90s-eurodance-mp3-hq?sABC=",
+    "url": "https://streams.90s90s.de/eurodance/mp3-192/streams.90s90s.de/",
     "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/90s90s%20Dance.png"
   },
   {
@@ -122,7 +122,7 @@
   {
     "name": "90s90s Techno",
     "category": "Eurodance - Music",
-    "url": "http://90s90s.hoerradar.de/90s90s-techno-mp3-hq?sABC=",
+    "url": "https://regiocast.streamabc.net/regc-90s90stechno2195701-mp3-192-2408420",
     "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/90s90s%20Techno.png"
   },
   {
@@ -166,12 +166,6 @@
     "category": "Eurodance - Music",
     "url": "http://fr1.1mix.co.uk:8060/320",
     "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/1Mix%20Radio.png"
-  },
-  {
-    "name": "DI Radio Digital",
-    "category": "Eurodance - Music",
-    "url": "http://e12092.cloudrad.io:8938/",
-    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/DI%20Radio%20Digital.png"
   },
   {
     "name": "Dance-Fox",
@@ -344,25 +338,13 @@
   {
     "name": "Sidestreet Radio",
     "category": "Eurodance - Music",
-    "url": "http://204.141.167.19:9780/",
+    "url": "https://www.ophanim.net:8444/s/9780",
     "logo": "https://cdn-radiotime-logos.tunein.com/s262614q.png"
-  },
-  {
-    "name": "EDM Radio",
-    "category": "Eurodance - Music",
-    "url": "https://lk.castnow.ru:8100/edm-320.mp3",
-    "logo": "https://cdn-profiles.tunein.com/s165623/images/logoq.png"
-  },
-  {
-    "name": "eurodance 90 only",
-    "category": "Eurodance - Music",
-    "url": "http://stream.zeno.fm/1pyzyufrqwzuv",
-    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/eurodance.png"
   },
   {
     "name": "RMI - Italo Disco New Generation",
     "category": "Eurodance - Music",
-    "url": "https://ruby.torontocast.com:1525/stream",
+    "url": "https://cast1.torontocast.com:1310/stream",
     "logo": "https://static.radio.net/images/broadcasts/28/0b/33872/c175.png"
   },
   {
@@ -374,7 +356,7 @@
   {
     "name": "RMI - Italo Disco Classic",
     "category": "Eurodance - Music",
-    "url": "https://ruby.torontocast.com:1385/stream",
+    "url": "https://cast1.torontocast.com:1310/stream",
     "logo": "https://static.radio.net/images/broadcasts/08/7e/33871/c300.png"
   },
   {
@@ -386,7 +368,7 @@
   {
     "name": "RMI - Euro Disco",
     "category": "Eurodance - Music",
-    "url": "https://ruby.torontocast.com:1565/stream",
+    "url": "https://cast1.torontocast.com:1330/stream",
     "logo": "https://static.radio.net/images/broadcasts/65/c8/10728/c175.png"
   },
   {
