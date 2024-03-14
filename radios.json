@@ -174,12 +174,6 @@
     "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/1Mix%20Radio.png"
   },
   {
-    "name": "Dance-Fox",
-    "category": "Eurodance - Music",
-    "url": "https://s35.derstream.net/dancefox-radio.mp3",
-    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/dancefox.png"
-  },
-  {
     "name": "Ballermann Radio",
     "category": "Eurodance - Music",
     "url": "http://stream.bmr-radio.de/ballermann-radio.mp3",
@@ -196,12 +190,6 @@
     "category": "Eurodance - Music",
     "url": "https://hls-01-radiorecord.hostingradio.ru/record-ibiza/96/playlist.m3u8",
     "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/Radio%20Europa%20Live.png"
-  },
-  {
-    "name": "1.FM - Absolute 90s",
-    "category": "Eurodance - Music",
-    "url": "http://strm112.1.fm/partyzone90s_mobile_mp3",
-    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/1.FM%20-%20Absolute%2090s%20.png"
   },
   {
     "name": "Puls'Dance",
@@ -238,12 +226,6 @@
     "category": "Eurodance - Music",
     "url": "http://5.135.183.124:8130/stream",
     "logo": "https://cdn-radiotime-logos.tunein.com/s297946q.png"
-  },
-  {
-    "name": "KRONEHIT 90's Dance",
-    "category": "Eurodance - Music",
-    "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8",
-    "logo": "https://cdn-profiles.tunein.com/s218146/images/logoq.png"
   },
   {
     "name": "!SUPER DANCE!",
@@ -312,12 +294,6 @@
     "logo": "https://static.radio.net/images/broadcasts/94/a7/32477/1/c175.png"
   },
   {
-    "name": "104.6 RTL 90er",
-    "category": "Eurodance - Music",
-    "url": "https://stream.104.6rtl.com/rtl-90er/mp3-128/radioDE/",
-    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/cjghzzd76r6b.png"
-  },
-  {
     "name": "Dance Attack FM - The Best EDM",
     "category": "Eurodance - Music",
     "url": "http://uk4.internet-radio.com:8049/stream",
@@ -334,6 +310,54 @@
     "category": "Eurodance - Music",
     "url": "http://pulseedm.cdnstream1.com:8124/1373_128",
     "logo": "https://cdn-radiotime-logos.tunein.com/s135237q.png"
+  },
+  {
+    "name": "Eurodance 1",
+    "category": "Eurodance - Music",
+    "url": "https://eurodance1.stream.laut.fm/eurodance1",
+    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/Eurodance-1.jpg"
+  },
+  {
+    "name": "Diamond Dance Radio",
+    "category": "Eurodance - Music",
+    "url": "https://discodiamond.radioca.st/stream",
+    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/Diamond-Dance-Radio.jpg"
+  },
+  {
+    "name": "RDMIX EuroDance 90’s",
+    "category": "Eurodance - Music",
+    "url": "https://maggie.torontocast.com:2020/stream/rdmixeurodance90s",
+    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/RDMIX-EuroDance-90s.jpg"
+  },
+  {
+    "name": "Euro Nation",
+    "category": "Eurodance - Music",
+    "url": "https://halo.streamerr.co/listen/euronation/stream.mp3",
+    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/Euro-Nation.jpg"
+  },
+  {
+    "name": "TOPi Radio",
+    "category": "Eurodance - Music",
+    "url": "http://stream.zeno.fm/tggxpryded0uv",
+    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/TOPi-Radio.jpg"
+  },
+  {
+    "name": "Radio Sabor 90",
+    "category": "Eurodance - Music",
+    "url": "http://stream.zeno.fm/sqgrv43831zuv",
+    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/Radio-Sabor-90.jpg"
+  },
+  {
+    "name": "RadioBit 90’s Dance Station",
+    "category": "Eurodance - Music",
+    "url": "https://radiobit.stream.laut.fm/radiobit",
+    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/RadioBit-90s-Dance-Station.jpg"
+  },
+  {
+    "name": "Dance Fm Live Trance",
+    "category": "Eurodance - Music",
+    "url": "https://sunsl.streamabc.net/sunsl-trance-mp3-192-6936250",
+    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/Dance-Fm-Live-Trance.jpg"
   },
   {
     "name": "Sidestreet Radio",
@@ -371,60 +395,6 @@
     "url": "https://italo.italo.nu/",
     "logo": "https://static.radio.net/images/broadcasts/73/dd/10270/1/c175.png"
   },
-   {
-    "name": "Eurodance 1",
-    "category": "Eurodance - Music",
-    "url": "https://eurodance1.stream.laut.fm/eurodance1",
-    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/Eurodance-1.jpg"
-  },  
-
-  {
-    "name": "Diamond Dance Radio",
-    "category": "Eurodance - Music",
-    "url": "https://discodiamond.radioca.st/stream",
-    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/Diamond-Dance-Radio.jpg"
-  },  
-
-  {
-    "name": "RDMIX EuroDance 90’s",
-    "category": "Eurodance - Music",
-    "url": "https://maggie.torontocast.com:2020/stream/rdmixeurodance90s",
-    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/RDMIX-EuroDance-90s.jpg"
-  },
-
-  {
-    "name": "Euro Nation",
-    "category": "Eurodance - Music",
-    "url": "https://halo.streamerr.co/listen/euronation/stream.mp3",
-    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/Euro-Nation.jpg"
-  },  
-
-  {
-    "name": "TOPi Radio",
-    "category": "Eurodance - Music",
-    "url": "http://stream.zeno.fm/tggxpryded0uv",
-    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/TOPi-Radio.jpg"
-  },  
-
-  {
-    "name": "Radio Sabor 90",
-    "category": "Eurodance - Music",
-    "url": "http://stream.zeno.fm/sqgrv43831zuv",
-    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/Radio-Sabor-90.jpg"
-  },   
-  {
-    "name": "RadioBit 90’s Dance Station",
-    "category": "Eurodance - Music",
-    "url": "https://radiobit.stream.laut.fm/radiobit",
-    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/RadioBit-90s-Dance-Station.jpg"
-  },  
-
-  {
-    "name": "Dance Fm Live Trance",
-    "category": "Eurodance - Music",
-    "url": "https://sunsl.streamabc.net/sunsl-trance-mp3-192-6936250",
-    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/Dance-Fm-Live-Trance.jpg"
-  },  
   {
     "category": "Learn English",
     "logo": "https://tools.zenoradio.com/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQqYqxhQoMCxIOU3RhdGlvblByb2ZpbGUYgIDQqIzW0QsMogEEemVubw/image/?resize=380x380",
