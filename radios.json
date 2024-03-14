@@ -1,9 +1,9 @@
 [
   {
-    "name": "América Dance 90's",
+    "name": "RPR1.90er Dance",
     "category": "Eurodance - Music",
-    "url": "http://stm8.srvstm.com:8212/1",
-    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/América Dance 90's.png"
+    "url": "https://audiotainment-sw.streamabc.net/atsw-90erdance-aac-128-6377960",
+    "logo": "https://americadance90.com.br/wp-content/uploads/2024/03/RPR1.90er-Dance.jpg"
   },
   {
     "name": "E-Dance 90's",
@@ -22,6 +22,12 @@
     "category": "Eurodance - Music",
     "url": "http://stream.zeno.fm/b7xkkhdfpkhvv",
     "logo": "https://cdn-profiles.tunein.com/s311020/images/logod.jpg"
+  },
+  {
+    "name": "RMI - Italo Disco New Generation",
+    "category": "Eurodance - Music",
+    "url": "https://cast1.torontocast.com:1310/stream",
+    "logo": "https://static.radio.net/images/broadcasts/28/0b/33872/c175.png"
   },
   {
     "name": "90s90s Dance",
@@ -172,12 +178,6 @@
     "category": "Eurodance - Music",
     "url": "https://s35.derstream.net/dancefox-radio.mp3",
     "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/dancefox.png"
-  },
-  {
-    "name": "Radio-angelsfox",
-    "category": "Eurodance - Music",
-    "url": "https://s37.derstream.net/afr128.mp3",
-    "logo": "https://raw.githubusercontent.com/lo483/RADIO_LOGO/master/kurdi/kurdranj.png"
   },
   {
     "name": "Ballermann Radio",
@@ -340,12 +340,6 @@
     "category": "Eurodance - Music",
     "url": "https://www.ophanim.net:8444/s/9780",
     "logo": "https://cdn-radiotime-logos.tunein.com/s262614q.png"
-  },
-  {
-    "name": "RMI - Italo Disco New Generation",
-    "category": "Eurodance - Music",
-    "url": "https://cast1.torontocast.com:1310/stream",
-    "logo": "https://static.radio.net/images/broadcasts/28/0b/33872/c175.png"
   },
   {
     "name": "RMI - Euro Disco",
