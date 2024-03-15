@@ -445,12 +445,6 @@
   },
   {
     "category": "News - Radios",
-    "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/1f/75/22773/1/c100.png",
-    "name": "KIRN - Radio Iran 670 AM",
-    "url": "https://stream.zeno.fm/0bybax2r3heuv"
-  },
-  {
-    "category": "News - Radios",
     "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/10/01/23623/c100.png",
     "name": "WGDJ - Talk 1300",
     "url": "https://ic2.mainstreamnetwork.com/wgdj-am"
@@ -460,12 +454,6 @@
     "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/35/e7/31458/c100.png",
     "name": "WMAL-FM 105.9 FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMALFM.mp3"
-  },
-  {
-    "category": "News - Radios",
-    "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/84/2b/34949/c100.png",
-    "name": "WTIC 1080 AM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WTICAM.mp3"
   },
   {
     "category": "News - Radios",
@@ -814,12 +802,6 @@
     "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d0/de/32171/1/c100.png",
     "name": "WCSP C-Span Radio",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO.mp3"
-  },
-  {
-    "category": "News - Radios",
-    "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/85/05/30620/1/c100.png",
-    "name": "KXLY 920 AM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KXLYAMAAC.aac"
   },
   {
     "category": "News - Radios",
@@ -2665,12 +2647,6 @@
   },
   {
     "category": "Relax",
-    "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/b5/8c/37881/2/c100.png",
-    "name": "Radio Dimensione Relax",
-    "url": "https://jenny.torontocast.com:2000/stream/dimensionerelax"
-  },
-  {
-    "category": "Relax",
     "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/a6/cc/139867/1/c100.png",
     "name": "Relax",
     "url": "http://paineldj6.com.br:8049/stream"
@@ -2701,13 +2677,13 @@
   },
   {
     "category": "Relax",
-    "logo": "",
+    "logo": "https://listenonlineradio.com/wp-content/uploads/relax-music-radio.png",
     "name": "James Radioescuchas Relax",
     "url": "https://stream.zeno.fm/v2gzhqz3wwzuv"
   },
   {
     "category": "Relax",
-    "logo": "",
+    "logo": "https://listenonlineradio.com/wp-content/uploads/relax-music-radio.png",
     "name": "Relax Recargado Radio",
     "url": "https://servidor34-3.brlogic.com:7564/live"
   },
@@ -2785,7 +2761,7 @@
   },
   {
     "category": "Relax",
-    "logo": "",
+    "logo": "https://listenonlineradio.com/wp-content/uploads/relax-music-radio.png",
     "name": "Relaxing Piano",
     "url": "https://stream.laut.fm/relaxing-piano?ref=radiode"
   },
@@ -2815,13 +2791,13 @@
   },
   {
     "category": "Relax",
-    "logo": "",
+    "logo": "https://listenonlineradio.com/wp-content/uploads/relax-music-radio.png",
     "name": "All Relaxing Classics",
     "url": "http://s3.voscast.com:10018/;"
   },
   {
     "category": "Relax",
-    "logo": "",
+    "logo": "https://listenonlineradio.com/wp-content/uploads/relax-music-radio.png",
     "name": "24/7 Relaxation Radio",
     "url": "https://ec6.yesstreaming.net:1525/stream"
   },
@@ -2899,7 +2875,7 @@
   },
   {
     "category": "Relax",
-    "logo": "",
+    "logo": "https://listenonlineradio.com/wp-content/uploads/relax-music-radio.png",
     "name": "Radio Relax",
     "url": "https://icecast7.play.cz/relax128.mp3"
   },
@@ -2989,7 +2965,7 @@
   },
   {
     "category": "Relax",
-    "logo": "",
+    "logo": "https://listenonlineradio.com/wp-content/uploads/relax-music-radio.png",
     "name": "Klassik Radio Relax",
     "url": "https://stream.klassikradio.de/relax/mp3-192/radiode"
   },
@@ -3079,7 +3055,7 @@
   },
   {
     "category": "Relax",
-    "logo": "",
+    "logo": "https://listenonlineradio.com/wp-content/uploads/relax-music-radio.png",
     "name": "sunshine live - Relax",
     "url": "https://stream.sunshine-live.de/relax/mp3-128/radiode/"
   },
@@ -3121,7 +3097,7 @@
   },
   {
     "category": "Relax",
-    "logo": "",
+    "logo": "https://listenonlineradio.com/wp-content/uploads/relax-music-radio.png",
     "name": "Radio Caprice - Relaxation Music",
     "url": "http://79.120.39.202:8000/relaxation"
   },
