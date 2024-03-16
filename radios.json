@@ -3144,54 +3144,6 @@
     "logo": "https://idsb.tmgrup.com.tr/2016/04/11/GenelBuyuk/1460393294863.jpeg"
   },
   {
-    "name": "Radio Mohammed 6",
-    "category": "Islamic",
-    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/radio_mohammed_6-mp4a_130400_qad=1.m3u8",
-    "logo": "http://radio.oui9mobi.com/apps/images/02.png"
-  },
-  {
-    "name": "Oui9Radio Muslim",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/?id=2",
-    "logo": "http://radio.oui9mobi.com/apps/images/muslim02.png"
-  },
-  {
-    "name": "Oui9Radio Quran",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/?id=4",
-    "logo": "http://radio.oui9mobi.com/apps/images/muslim04.png"
-  },
-  {
-    "name": "Oui9Radio abdel rahman benmoussa",
-    "category": "Islamic",
-    "url": "https://stream-150.zeno.fm/r49zn971wwzuv?zs=Qj-kGmB8Tl29MyUoxBQ2bA",
-    "logo": "http://radio.oui9mobi.com/apps/images/muslim08.png"
-  },
-  {
-    "name": "Oui9Radio QURAN - Arabic - Portuguese",
-    "category": "Islamic",
-    "url": "https://stream-152.zeno.fm/e4dzpgzw3yzuv?zs=Li2Ocs_iQf-bEd_HWdOjIQ",
-    "logo": "http://radio.oui9mobi.com/apps/images/muslim10.png"
-  },
-  {
-    "name": "Tafseer",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=2",
-    "logo": "http://radio.oui9mobi.com/apps/images/32.png"
-  },
-  {
-    "name": "Allahu Akbar",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=50",
-    "logo": "http://radio.oui9mobi.com/apps/images/47.png"
-  },
-  {
-    "name": "Radio tamrabaht",
-    "category": "Islamic",
-    "url": "http://stream.zeno.fm/mdfkr0k6gwzuv",
-    "logo": "http://radio.oui9mobi.com/apps/images/is132.png"
-  },
-  {
     "name": "Radio Tafseer Chaaraoui",
     "category": "Islamic",
     "url": "http://radio.oui9.com/aradio/islam/?id=54",
@@ -3828,82 +3780,16 @@
     "logo": "http://radio.oui9mobi.com/apps/images/is246.png"
   },
   {
-    "name": "Sheikh Zaki Daghistani",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=288",
-    "logo": "http://radio.oui9mobi.com/apps/images/is288.png"
-  },
-  {
-    "name": "Radio Sunna",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=290",
-    "logo": "http://radio.oui9mobi.com/apps/images/is290.png"
-  },
-  {
-    "name": "RADIO ISLAM 2 DAY",
-    "category": "Islamic",
-    "url": "http://www.islam2day.tv/radio-station/ch2.m3u",
-    "logo": "http://radio.oui9mobi.com/apps/images/is292.png"
-  },
-  {
-    "name": "Radio salam wa nour wal hikma",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=300",
-    "logo": "http://radio.oui9mobi.com/apps/images/is300.png"
-  },
-  {
     "name": "Radio Quran Tunisie",
     "category": "Islamic",
     "url": "http://radio.oui9.com/aradio/tn/?id=62",
     "logo": "http://radio.oui9mobi.com/apps/images/tn62.png"
   },
   {
-    "name": "Buzzislam Radio",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=48",
-    "logo": "http://radio.oui9mobi.com/apps/images/is48.png"
-  },
-  {
     "name": "2M FM",
     "category": "Islamic",
     "url": "http://radio.oui9.com/aradio/islam/?id=132",
     "logo": "http://radio.oui9mobi.com/apps/images/is11.png"
-  },
-  {
-    "name": "HAYAT FM",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/jordan/?id=2",
-    "logo": "http://radio.oui9mobi.com/apps/images/is12.png"
-  },
-  {
-    "name": "BATAH 106.6 FM",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=134",
-    "logo": "http://radio.oui9mobi.com/apps/images/is13.png"
-  },
-  {
-    "name": "Azan ru",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=136",
-    "logo": "http://radio.oui9mobi.com/apps/images/is14.png"
-  },
-  {
-    "name": "Radio scientifique Zedny 1",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=268",
-    "logo": "http://radio.oui9mobi.com/apps/images/is268.png"
-  },
-  {
-    "name": "Radio scientifique Zedny 2",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=270",
-    "logo": "http://radio.oui9mobi.com/apps/images/is270.png"
-  },
-  {
-    "name": "Radio Atajweed",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=280",
-    "logo": "http://radio.oui9mobi.com/apps/images/is280.png"
   },
   {
     "name": "Radio Science Quran",
@@ -3916,18 +3802,6 @@
     "category": "Islamic",
     "url": "http://radio.oui9.com/aradio/islam/?id=284",
     "logo": "http://radio.oui9mobi.com/apps/images/is284.png"
-  },
-  {
-    "name": "Oloum Atajweed",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=286",
-    "logo": "http://radio.oui9mobi.com/apps/images/is286.png"
-  },
-  {
-    "name": "Miftah Asultani",
-    "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=4",
-    "logo": "http://radio.oui9mobi.com/apps/images/i52.png"
   },
   {
     "name": "Oyoun El kouchi",
@@ -3948,17 +3822,53 @@
     "logo": "http://radio.oui9mobi.com/apps/images/51.png"
   },
   {
-    "name": "QSA Quran",
+    "name": "Radio Mohammed 6",
     "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/sa/?id=6",
-    "logo": "http://radio.oui9mobi.com/apps/images/52.png"
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/radio_mohammed_6-mp4a_130400_qad=1.m3u8",
+    "logo": "http://radio.oui9mobi.com/apps/images/02.png"
   },
   {
-    "name": "Tafseer English",
+    "name": "Muslim",
     "category": "Islamic",
-    "url": "http://radio.oui9.com/aradio/islam/?id=62",
-    "logo": "http://radio.oui9mobi.com/apps/images/is62.png"
+    "url": "http://radio.oui9.com/aradio/?id=2",
+    "logo": "http://radio.oui9mobi.com/apps/images/muslim02.png"
   },
+  {
+    "name": "Quran",
+    "category": "Islamic",
+    "url": "http://radio.oui9.com/aradio/?id=4",
+    "logo": "http://radio.oui9mobi.com/apps/images/muslim04.png"
+  },
+  {
+    "name": "abdel rahman benmoussa",
+    "category": "Islamic",
+    "url": "https://stream-150.zeno.fm/r49zn971wwzuv?zs=Qj-kGmB8Tl29MyUoxBQ2bA",
+    "logo": "http://radio.oui9mobi.com/apps/images/muslim08.png"
+  },
+  {
+    "name": "QURAN - Arabic - Portuguese",
+    "category": "Islamic",
+    "url": "https://stream-152.zeno.fm/e4dzpgzw3yzuv?zs=Li2Ocs_iQf-bEd_HWdOjIQ",
+    "logo": "http://radio.oui9mobi.com/apps/images/muslim10.png"
+  },
+  {
+    "name": "Tafseer",
+    "category": "Islamic",
+    "url": "http://radio.oui9.com/aradio/islam/?id=2",
+    "logo": "http://radio.oui9mobi.com/apps/images/32.png"
+  },
+  {
+    "name": "Allahu Akbar",
+    "category": "Islamic",
+    "url": "http://radio.oui9.com/aradio/islam/?id=50",
+    "logo": "http://radio.oui9mobi.com/apps/images/47.png"
+  },
+  {
+    "name": "Radio tamrabaht",
+    "category": "Islamic",
+    "url": "http://stream.zeno.fm/mdfkr0k6gwzuv",
+    "logo": "http://radio.oui9mobi.com/apps/images/is132.png"
+  },  
   {
     "name": "duas kumayl",
     "category": "Islamic",
